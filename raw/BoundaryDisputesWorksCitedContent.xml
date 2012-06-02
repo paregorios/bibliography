@@ -1,0 +1,1562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content
+    xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0"
+    xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0"
+    xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0"
+    xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0"
+    xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0"
+    xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0"
+    xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0"
+    xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0"
+    xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0"
+    xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0"
+    xmlns:math="http://www.w3.org/1998/Math/MathML"
+    xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0"
+    xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0"
+    xmlns:ooo="http://openoffice.org/2004/office"
+    xmlns:ooow="http://openoffice.org/2004/writer"
+    xmlns:oooc="http://openoffice.org/2004/calc"
+    xmlns:dom="http://www.w3.org/2001/xml-events"
+    xmlns:xforms="http://www.w3.org/2002/xforms"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    office:version="1.0">
+    <office:scripts/>
+    <office:font-face-decls>
+        <style:font-face style:name="Wingdings"
+            svg:font-family="Wingdings" style:font-pitch="variable"
+            style:font-charset="x-symbol"/>
+        <style:font-face style:name="Symbol" svg:font-family="Symbol"
+            style:font-family-generic="roman"
+            style:font-pitch="variable" style:font-charset="x-symbol"/>
+        <style:font-face style:name="Tahoma1" svg:font-family="Tahoma"/>
+        <style:font-face style:name="Courier New"
+            svg:font-family="&apos;Courier New&apos;"
+            style:font-family-generic="modern"/>
+        <style:font-face style:name="GentiumAlt"
+            svg:font-family="GentiumAlt" style:font-pitch="variable"/>
+        <style:font-face style:name="Times New Roman"
+            svg:font-family="&apos;Times New Roman&apos;"
+            style:font-family-generic="roman"
+            style:font-pitch="variable"/>
+        <style:font-face style:name="Comic Sans MS"
+            svg:font-family="&apos;Comic Sans MS&apos;"
+            style:font-family-generic="script"
+            style:font-pitch="variable"/>
+        <style:font-face style:name="Arial" svg:font-family="Arial"
+            style:font-family-generic="swiss"
+            style:font-pitch="variable"/>
+        <style:font-face style:name="Arial Unicode MS1"
+            svg:font-family="&apos;Arial Unicode MS&apos;"
+            style:font-family-generic="swiss"
+            style:font-pitch="variable"/>
+        <style:font-face style:name="Verdana"
+            svg:font-family="Verdana"
+            style:font-family-generic="swiss"
+            style:font-pitch="variable"/>
+        <style:font-face style:name="Arial Unicode MS"
+            svg:font-family="&apos;Arial Unicode MS&apos;"
+            style:font-family-generic="system"
+            style:font-pitch="variable"/>
+        <style:font-face style:name="MS Mincho"
+            svg:font-family="&apos;MS Mincho&apos;"
+            style:font-family-generic="system"
+            style:font-pitch="variable"/>
+        <style:font-face style:name="Tahoma" svg:font-family="Tahoma"
+            style:font-family-generic="system"
+            style:font-pitch="variable"/>
+    </office:font-face-decls>
+    <office:automatic-styles>
+        <style:style style:name="P1" style:family="paragraph"
+            style:parent-style-name="Standard">
+            <style:paragraph-properties fo:margin-top="0in"
+                fo:margin-bottom="0in" fo:text-align="center"
+                style:justify-single-word="false"
+                fo:break-before="page"/>
+        </style:style>
+        <style:style style:name="P2" style:family="paragraph"
+            style:parent-style-name="Standard">
+            <style:paragraph-properties fo:margin-top="0in"
+                fo:margin-bottom="0in" fo:text-align="center"
+                style:justify-single-word="false"/>
+        </style:style>
+        <style:style style:name="P3" style:family="paragraph"
+            style:parent-style-name="treText">
+            <style:paragraph-properties fo:margin-top="0in"
+                fo:margin-bottom="0in" fo:line-height="0.1665in"/>
+        </style:style>
+        <style:style style:name="P4" style:family="paragraph"
+            style:parent-style-name="Standard">
+            <style:paragraph-properties fo:keep-together="always"
+                fo:keep-with-next="always"
+                style:snap-to-layout-grid="false"/>
+        </style:style>
+        <style:style style:name="P5" style:family="paragraph"
+            style:parent-style-name="treBullet">
+            <style:paragraph-properties fo:keep-with-next="always"/>
+        </style:style>
+        <style:style style:name="P6" style:family="paragraph"
+            style:parent-style-name="treBulletTable">
+            <style:paragraph-properties fo:keep-with-next="always"/>
+        </style:style>
+        <style:style style:name="P7" style:family="paragraph"
+            style:parent-style-name="treBulletTable">
+            <style:paragraph-properties fo:keep-with-next="always"
+                style:snap-to-layout-grid="false"/>
+        </style:style>
+        <style:style style:name="P8" style:family="paragraph"
+            style:parent-style-name="treParaIndent">
+            <style:paragraph-properties fo:keep-with-next="always"/>
+        </style:style>
+        <style:style style:name="P9" style:family="paragraph"
+            style:parent-style-name="treParaTable">
+            <style:paragraph-properties fo:keep-with-next="always"
+                style:snap-to-layout-grid="false"/>
+        </style:style>
+        <style:style style:name="P10" style:family="paragraph"
+            style:parent-style-name="treParaTable">
+            <style:paragraph-properties fo:keep-with-next="always"
+                style:snap-to-layout-grid="false"/>
+            <style:text-properties style:font-name="GentiumAlt"
+                fo:language="zxx" fo:country="none"
+                style:language-asian="zxx" style:country-asian="none"
+            />
+        </style:style>
+        <style:style style:name="P11" style:family="paragraph"
+            style:parent-style-name="treParaTable">
+            <style:paragraph-properties fo:keep-with-next="always"
+                style:snap-to-layout-grid="false"/>
+            <style:text-properties style:font-name="GentiumAlt"/>
+        </style:style>
+        <style:style style:name="P12" style:family="paragraph"
+            style:parent-style-name="treParaTable">
+            <style:paragraph-properties fo:keep-with-next="always"
+                style:snap-to-layout-grid="false"/>
+            <style:text-properties fo:language="la" fo:country="VA"
+                style:language-asian="zxx" style:country-asian="none"
+            />
+        </style:style>
+        <style:style style:name="P13" style:family="paragraph"
+            style:parent-style-name="treText">
+            <style:paragraph-properties fo:keep-with-next="always"/>
+        </style:style>
+        <style:style style:name="P14" style:family="paragraph"
+            style:parent-style-name="treParaIndent_20_Char_20_Char">
+            <style:paragraph-properties fo:keep-with-next="always"/>
+        </style:style>
+        <style:style style:name="P15" style:family="paragraph"
+            style:parent-style-name="treBlock">
+            <style:paragraph-properties fo:keep-with-next="always"/>
+        </style:style>
+        <style:style style:name="P16" style:family="paragraph"
+            style:parent-style-name="treBlock">
+            <style:paragraph-properties fo:keep-together="auto"
+                fo:keep-with-next="always"/>
+        </style:style>
+        <style:style style:name="P17" style:family="paragraph"
+            style:parent-style-name="Standard">
+            <style:paragraph-properties fo:margin-left="0.25in"
+                fo:margin-right="0in" fo:text-indent="-0.25in"
+                style:auto-text-indent="false">
+                <style:tab-stops>
+                    <style:tab-stop style:position="2.75in"
+                        style:type="right" style:leader-style="dotted"
+                        style:leader-text="."/>
+                </style:tab-stops>
+            </style:paragraph-properties>
+        </style:style>
+        <style:style style:name="P18" style:family="paragraph"
+            style:parent-style-name="Standard">
+            <style:paragraph-properties fo:margin-left="2in"
+                fo:margin-right="0in" fo:margin-top="0.1665in"
+                fo:margin-bottom="0.1665in" fo:text-indent="-2in"
+                style:auto-text-indent="false"/>
+        </style:style>
+        <style:style style:name="P19" style:family="paragraph"
+            style:parent-style-name="Heading_20_2">
+            <style:paragraph-properties fo:margin-top="0in"
+                fo:margin-bottom="0.1528in" fo:break-before="auto"
+                fo:break-after="auto"/>
+        </style:style>
+        <style:style style:name="P20" style:family="paragraph"
+            style:parent-style-name="Heading_20_2">
+            <style:paragraph-properties fo:margin-top="0.1528in"
+                fo:margin-bottom="0.1528in" fo:break-before="auto"
+                fo:break-after="auto"/>
+        </style:style>
+        <style:style style:name="P21" style:family="paragraph"
+            style:parent-style-name="Heading_20_3">
+            <style:paragraph-properties fo:break-before="page"/>
+        </style:style>
+        <style:style style:name="P22" style:family="paragraph"
+            style:parent-style-name="trePersonEntryBody">
+            <style:paragraph-properties fo:break-before="page"/>
+        </style:style>
+        <style:style style:name="P23" style:family="paragraph"
+            style:parent-style-name="Heading_20_5">
+            <style:text-properties fo:language="zxx" fo:country="none"
+                style:language-asian="zxx" style:country-asian="none"
+            />
+        </style:style>
+        <style:style style:name="P24" style:family="paragraph"
+            style:parent-style-name="treParaIndent">
+            <style:text-properties fo:language="zxx" fo:country="none"
+                style:language-asian="zxx" style:country-asian="none"
+            />
+        </style:style>
+        <style:style style:name="P25" style:family="paragraph"
+            style:parent-style-name="treParaIndent">
+            <style:paragraph-properties>
+                <style:tab-stops>
+                    <style:tab-stop style:position="4.1862in"/>
+                </style:tab-stops>
+            </style:paragraph-properties>
+        </style:style>
+        <style:style style:name="P26" style:family="paragraph"
+            style:parent-style-name="treParaIndent">
+            <style:paragraph-properties fo:margin-left="0.25in"
+                fo:margin-right="0in" fo:margin-top="0.0835in"
+                fo:margin-bottom="0.1528in" fo:line-height="0.1807in"
+                fo:keep-together="always" fo:text-indent="0in"
+                style:auto-text-indent="false"
+                fo:keep-with-next="always"/>
+        </style:style>
+        <style:style style:name="P27" style:family="paragraph"
+            style:parent-style-name="treParaTable">
+            <style:paragraph-properties
+                style:snap-to-layout-grid="false"/>
+        </style:style>
+        <style:style style:name="P28" style:family="paragraph"
+            style:parent-style-name="treTranslation">
+            <style:paragraph-properties fo:keep-together="auto"/>
+        </style:style>
+        <style:style style:name="P29" style:family="paragraph"
+            style:parent-style-name="treTranslation">
+            <style:text-properties fo:language="la" fo:country="VA"
+                style:language-asian="zxx" style:country-asian="none"
+            />
+        </style:style>
+        <style:style style:name="P30" style:family="paragraph"
+            style:parent-style-name="treText">
+            <style:paragraph-properties fo:keep-together="auto"/>
+        </style:style>
+        <style:style style:name="P31" style:family="paragraph"
+            style:parent-style-name="treText">
+            <style:paragraph-properties fo:line-height="0.1665in"
+                fo:keep-together="auto"/>
+        </style:style>
+        <style:style style:name="P32" style:family="paragraph"
+            style:parent-style-name="treParaIndent_20_Char_20_Char">
+            <style:text-properties style:font-size-complex="11pt"/>
+        </style:style>
+        <style:style style:name="P33" style:family="paragraph"
+            style:parent-style-name="treParaIndent_20_Char_20_Char">
+            <style:paragraph-properties fo:margin-left="0in"
+                fo:margin-right="0in" fo:keep-together="always"
+                fo:text-indent="0in" style:auto-text-indent="false"
+                fo:keep-with-next="always"
+                style:snap-to-layout-grid="false"/>
+        </style:style>
+        <style:style style:name="P34" style:family="paragraph"
+            style:parent-style-name="treBlock">
+            <style:paragraph-properties fo:keep-together="auto"/>
+        </style:style>
+        <style:style style:name="P35" style:family="paragraph"
+            style:parent-style-name="trePersonEntryBody">
+            <style:paragraph-properties fo:keep-with-next="auto"/>
+        </style:style>
+        <style:style style:name="P36" style:family="paragraph"
+            style:parent-style-name="Standard">
+            <style:paragraph-properties fo:margin-top="0in"
+                fo:margin-bottom="0in" fo:text-align="center"
+                style:justify-single-word="false"/>
+        </style:style>
+        <style:style style:name="P37" style:family="paragraph"
+            style:parent-style-name="Heading_20_2"
+            style:master-page-name="Convert_20_1"/>
+        <style:style style:name="P38" style:family="paragraph"
+            style:parent-style-name="Heading_20_2"
+            style:master-page-name="Convert_20_2"/>
+        <style:style style:name="P39" style:family="paragraph"
+            style:parent-style-name="Heading_20_2"
+            style:master-page-name="Convert_20_3"/>
+        <style:style style:name="P40" style:family="paragraph"
+            style:parent-style-name="Heading_20_2"
+            style:master-page-name="Convert_20_5">
+            <style:paragraph-properties fo:margin-top="0in"
+                fo:margin-bottom="0.1528in"/>
+        </style:style>
+        <style:style style:name="P41" style:family="paragraph"
+            style:parent-style-name="Heading_20_2"
+            style:master-page-name="First_20_Page">
+            <style:paragraph-properties fo:margin-top="0in"
+                fo:margin-bottom="0.1528in"/>
+        </style:style>
+        <style:style style:name="P42" style:family="paragraph"
+            style:parent-style-name="Heading_20_2"
+            style:master-page-name="Convert_20_6">
+            <style:paragraph-properties fo:margin-top="0in"
+                fo:margin-bottom="0.3055in"/>
+        </style:style>
+        <style:style style:name="P43" style:family="paragraph"
+            style:parent-style-name="Heading_20_5">
+            <style:text-properties fo:language="zxx" fo:country="none"
+                style:language-asian="zxx" style:country-asian="none"
+            />
+        </style:style>
+        <style:style style:name="P44" style:family="paragraph"
+            style:parent-style-name="Footnote">
+            <style:text-properties fo:language="fr" fo:country="FR"/>
+        </style:style>
+        <style:style style:name="P45" style:family="paragraph"
+            style:parent-style-name="Footnote">
+            <style:text-properties fo:language="it" fo:country="IT"/>
+        </style:style>
+        <style:style style:name="P46" style:family="paragraph"
+            style:parent-style-name="treParaIndent">
+            <style:paragraph-properties fo:text-align="center"
+                style:justify-single-word="false"/>
+            <style:text-properties fo:font-style="italic"
+                style:font-style-asian="italic"
+                style:font-style-complex="italic"/>
+        </style:style>
+        <style:style style:name="P47" style:family="paragraph"
+            style:parent-style-name="treTranslation"
+            style:master-page-name="Convert_20_4"/>
+        <style:style style:name="P48" style:family="paragraph"
+            style:parent-style-name="treParaIndent_20_Char_20_Char">
+            <style:text-properties fo:language="zxx" fo:country="none"
+                style:language-asian="zxx" style:country-asian="none"
+            />
+        </style:style>
+        <style:style style:name="P49" style:family="paragraph"
+            style:parent-style-name="treParaIndent_20_Char_20_Char">
+            <style:text-properties style:font-size-complex="11pt"/>
+        </style:style>
+        <style:style style:name="T1" style:family="text">
+            <style:text-properties fo:font-weight="bold"
+                style:font-weight-asian="bold"/>
+        </style:style>
+        <style:style style:name="T2" style:family="text">
+            <style:text-properties fo:language="en" fo:country="US"/>
+        </style:style>
+        <style:style style:name="T3" style:family="text">
+            <style:text-properties fo:language="en" fo:country="US"
+                style:language-asian="en" style:country-asian="US"/>
+        </style:style>
+        <style:style style:name="T4" style:family="text">
+            <style:text-properties fo:language="en" fo:country="US"
+                style:language-asian="zxx" style:country-asian="none"
+            />
+        </style:style>
+        <style:style style:name="T5" style:family="text">
+            <style:text-properties fo:language="en" fo:country="US"
+                fo:font-weight="bold" style:language-asian="zxx"
+                style:country-asian="none"
+                style:font-weight-asian="bold"/>
+        </style:style>
+        <style:style style:name="T6" style:family="text">
+            <style:text-properties style:font-name="GentiumAlt"/>
+        </style:style>
+        <style:style style:name="T7" style:family="text">
+            <style:text-properties style:font-name="GentiumAlt"
+                fo:language="zxx" fo:country="none"
+                style:language-asian="zxx" style:country-asian="none"
+            />
+        </style:style>
+        <style:style style:name="T8" style:family="text">
+            <style:text-properties style:font-name="GentiumAlt"
+                fo:language="el" fo:country="GR"
+                style:language-asian="zxx" style:country-asian="none"
+            />
+        </style:style>
+        <style:style style:name="T9" style:family="text">
+            <style:text-properties style:font-name="GentiumAlt"
+                fo:font-style="italic" style:font-style-asian="italic"
+            />
+        </style:style>
+        <style:style style:name="T10" style:family="text">
+            <style:text-properties fo:language="zxx" fo:country="none"
+                style:language-asian="zxx" style:country-asian="none"
+            />
+        </style:style>
+        <style:style style:name="T11" style:family="text">
+            <style:text-properties fo:language="zxx" fo:country="none"
+                style:font-name-asian="Arial Unicode MS1"
+                style:language-asian="zxx" style:country-asian="none"
+            />
+        </style:style>
+        <style:style style:name="T12" style:family="text">
+            <style:text-properties fo:language="la" fo:country="VA"/>
+        </style:style>
+        <style:style style:name="T13" style:family="text">
+            <style:text-properties fo:language="la" fo:country="VA"
+                style:language-asian="zxx" style:country-asian="none"
+            />
+        </style:style>
+        <style:style style:name="T14" style:family="text">
+            <style:text-properties fo:language="el" fo:country="GR"/>
+        </style:style>
+        <style:style style:name="T15" style:family="text">
+            <style:text-properties fo:language="el" fo:country="GR"
+                style:language-asian="zxx" style:country-asian="none"
+            />
+        </style:style>
+        <style:style style:name="T16" style:family="text">
+            <style:text-properties fo:language="el" fo:country="GR"
+                style:language-asian="en" style:country-asian="US"/>
+        </style:style>
+        <style:style style:name="T17" style:family="text">
+            <style:text-properties fo:language="de" fo:country="DE"/>
+        </style:style>
+        <style:style style:name="T18" style:family="text">
+            <style:text-properties style:text-position="super 58%"/>
+        </style:style>
+        <style:style style:name="T19" style:family="text">
+            <style:text-properties style:text-position="super 58%"
+                fo:font-style="normal" style:font-style-asian="normal"
+            />
+        </style:style>
+        <style:style style:name="T20" style:family="text">
+            <style:text-properties style:text-position="super 58%"
+                style:font-name="Arial Unicode MS1"
+                fo:font-style="normal"
+                style:font-name-asian="Arial Unicode MS1"
+                style:font-style-asian="normal"/>
+        </style:style>
+        <style:style style:name="T21" style:family="text">
+            <style:text-properties style:text-position="super 58%"
+                style:font-name="Arial Unicode MS1"
+                fo:font-style="normal"
+                style:font-name-asian="Arial Unicode MS1"
+                style:font-style-asian="normal"
+                style:font-name-complex="Arial Unicode MS1"/>
+        </style:style>
+        <style:style style:name="T22" style:family="text">
+            <style:text-properties style:text-position="super 58%"
+                style:font-name="Arial Unicode MS1"
+                style:font-name-asian="Arial Unicode MS1"/>
+        </style:style>
+        <style:style style:name="T23" style:family="text">
+            <style:text-properties style:text-position="super 58%"
+                style:font-name="Arial Unicode MS1" fo:language="it"
+                fo:country="IT" fo:font-style="normal"
+                style:font-name-asian="Arial Unicode MS1"
+                style:language-asian="zxx" style:country-asian="none"
+                style:font-style-asian="normal"/>
+        </style:style>
+        <style:style style:name="T24" style:family="text">
+            <style:text-properties style:text-position="super 58%"
+                style:font-size-complex="11pt"/>
+        </style:style>
+        <style:style style:name="T25" style:family="text">
+            <style:text-properties style:text-position="super 58%"
+                fo:language="it" fo:country="IT"
+                style:language-asian="zxx" style:country-asian="none"
+            />
+        </style:style>
+        <style:style style:name="T26" style:family="text">
+            <style:text-properties style:text-position="super 58%"
+                fo:font-style="italic" style:font-style-asian="italic"
+            />
+        </style:style>
+        <style:style style:name="T27" style:family="text">
+            <style:text-properties fo:font-style="normal"
+                style:font-style-asian="normal"/>
+        </style:style>
+        <style:style style:name="T28" style:family="text">
+            <style:text-properties style:font-name="Arial Unicode MS1"
+                style:font-name-asian="Arial Unicode MS1"
+                style:font-name-complex="Arial Unicode MS1"/>
+        </style:style>
+        <style:style style:name="T29" style:family="text">
+            <style:text-properties style:font-name="Arial Unicode MS1"
+                fo:language="zxx" fo:country="none"
+                style:font-name-asian="Arial Unicode MS1"
+                style:language-asian="zxx" style:country-asian="none"
+            />
+        </style:style>
+        <style:style style:name="T30" style:family="text">
+            <style:text-properties
+                style:font-name-asian="Arial Unicode MS1"/>
+        </style:style>
+        <style:style style:name="T31" style:family="text">
+            <style:text-properties style:font-size-complex="11pt"/>
+        </style:style>
+        <style:style style:name="T32" style:family="text">
+            <style:text-properties fo:language="it" fo:country="IT"/>
+        </style:style>
+        <style:style style:name="T33" style:family="text">
+            <style:text-properties fo:language="it" fo:country="IT"
+                style:language-asian="zxx" style:country-asian="none"
+            />
+        </style:style>
+        <style:style style:name="T34" style:family="text">
+            <style:text-properties fo:language="fr" fo:country="FR"/>
+        </style:style>
+        <style:style style:name="T35" style:family="text">
+            <style:text-properties fo:font-style="italic"
+                style:font-style-asian="italic"/>
+        </style:style>
+        <style:style style:name="T36" style:family="text">
+            <style:text-properties fo:color="#003366" fo:language="la"
+                fo:country="VA" fo:font-style="italic"
+                style:font-style-asian="italic"/>
+        </style:style>
+        <style:style style:name="T37" style:family="text">
+            <style:text-properties fo:color="#000000"
+                style:font-name="Times New Roman"
+                fo:text-shadow="none"
+                style:text-underline-style="none"
+                fo:font-weight="normal"
+                style:font-weight-asian="normal"
+                style:font-weight-complex="normal"/>
+        </style:style>
+        <style:style style:name="T38" style:family="text">
+            <style:text-properties fo:color="#000000" fo:language="en"
+                fo:country="US" fo:font-style="normal"
+                style:language-asian="zxx" style:country-asian="none"
+                style:font-style-asian="normal"/>
+        </style:style>
+        <style:style style:name="T39" style:family="text">
+            <style:text-properties text:display="true"/>
+        </style:style>
+        <style:style style:name="T40" style:family="text">
+            <style:text-properties
+                style:text-line-through-style="solid"
+                style:font-size-complex="11pt"/>
+        </style:style>
+        <style:style style:name="T41" style:family="text">
+            <style:text-properties style:text-underline-style="solid"
+                style:text-underline-width="auto"
+                style:text-underline-color="font-color"/>
+        </style:style>
+        <style:style style:name="T42" style:family="text">
+            <style:text-properties fo:color="#000080"
+                style:font-name="GentiumAlt"/>
+        </style:style>
+        <style:style style:name="T43" style:family="text">
+            <style:text-properties
+                style:text-line-through-style="none"
+                style:font-size-complex="11pt"/>
+        </style:style>
+        <style:style style:name="T44" style:family="text"/>
+    </office:automatic-styles>
+    <office:body>
+        <office:text>
+            <office:forms form:automatic-focus="false"
+                form:apply-design-mode="false"/>
+            <text:sequence-decls>
+                <text:sequence-decl text:display-outline-level="0"
+                    text:name="Illustration"/>
+                <text:sequence-decl text:display-outline-level="0"
+                    text:name="Table"/>
+                <text:sequence-decl text:display-outline-level="0"
+                    text:name="Text"/>
+                <text:sequence-decl text:display-outline-level="0"
+                    text:name="Drawing"/>
+            </text:sequence-decls>
+            <text:p text:style-name="P41">Works Cited</text:p>
+            <text:p text:style-name="P46">(from <text:a
+                    xlink:type="simple"
+                    xlink:href="http://homepages.nyu.edu/~te20/dissertation.html"
+                    >Tom Elliott&apos;s 2004
+                dissertation</text:a>)</text:p>
+            <text:p text:style-name="treParaIndent">This list presents
+                all works cited by short titles consisting of the
+                first author (or editor) and publication date. For
+                works referenced by abbreviation here or in the text
+                (ancient literary works, journals, series, and
+                epigraphic corpora), please consult the “List of
+                Abbreviations.”</text:p>
+            <text:p text:style-name="P18">Ager 1989<text:tab/>S. Ager,
+                “Judicial Imperialism: the Case of Melitaia,”
+                    <text:span text:style-name="T35">AHB</text:span>
+                3.5 (1989) 107-114.</text:p>
+            <text:p text:style-name="P18">Ager 1996<text:tab/>S. Ager,
+                    <text:span text:style-name="T35">Interstate
+                    arbitrations in the Greek world, 337-90
+                    B.C.,</text:span> Berkeley, 1996.</text:p>
+            <text:p text:style-name="P18">Aichinger 1982<text:tab/>A.
+                Aichinger, “Grenzziehung durch kaiserliche
+                Sonderbeauftragte in den römischen provinzen,”
+                    <text:span text:style-name="T35">ZPE</text:span>
+                48 (1982) 193-204.</text:p>
+            <text:p text:style-name="P18">Alarcáo 1976<text:tab/>J.
+                Alarcáo and R. Etienne, “La Portugal à l’époque
+                augustéenne” <text:s/>in <text:span
+                    text:style-name="T35">Ciudades
+                    augusteas</text:span> 1 pp. 171-187.</text:p>
+            <text:p text:style-name="P18">Alföldy 1969<text:tab/>G.
+                Alföldy, <text:span text:style-name="T35">Fasti
+                    Hispanienses: Senatorische Reichsbeamte und
+                    Offiziere in den Spanischen Provinzen des
+                    Römischen Reiches von Augustus bis
+                    Diokletian,</text:span> Wiesbaden, 1969.</text:p>
+            <text:p text:style-name="P18">Alföldy 1991<text:tab/>G.
+                Alföldy, “Epigraphische Notizen aus Kleinasien I: Ein
+                Beneficium des Augustus in Ephesos,” <text:span
+                    text:style-name="T35">ZPE</text:span> 87 (1991)
+                157-162 with Pl. IV.</text:p>
+            <text:p text:style-name="P18">Alí 1996<text:tab/>F. Alí,
+                “Targunia dal periodo greco fino alla fine dell’età
+                fatimita” <text:s/>in Bacchielli 1996 1 pp.
+                127-134.</text:p>
+            <text:p text:style-name="P18">Ali Mohamed
+                1994<text:tab/>F. Ali Mohamed and R. Reynolds,
+                “Inscriptions Recently Discovered in Cyrenaica”
+                <text:s/>in <text:span text:style-name="T35">Africa
+                    romana 11</text:span> 3 pp. 1323-1327.</text:p>
+            <text:p text:style-name="P18">Bacchielli 1996<text:tab/>L.
+                Bacchielli et al (eds.), <text:span
+                    text:style-name="T35">Scritti di Antichità in
+                    memoria di Sandro Stucchi,</text:span> Studi
+                Miscellanei 29, Rome, 1996.</text:p>
+            <text:p text:style-name="P18">Baldwin Bowsky
+                1987<text:tab/>M. Bowsky, “Roman arbitration in
+                central Crete: an Augustan proconsul and a Neronian
+                procurator,” <text:span text:style-name="T35"
+                    >CJ</text:span> 82 (1986/87) 218-229.</text:p>
+            <text:p text:style-name="P18">Bammer 1974<text:tab/>A.
+                Bammer et al., <text:span text:style-name="T35">Führer
+                    durch das Archäologische Museum in
+                    Selçuk-Ephesos,</text:span> Vienna, 1974.</text:p>
+            <text:p text:style-name="P18">Banev 1981<text:tab/>Kr.
+                Banev and R. Lazov, “Inscriptions latines de la Mésie
+                Inférieure et de la Thrace,” <text:span
+                    text:style-name="T35">Arch (Sofia)</text:span> 23
+                (1981) 37-45.</text:p>
+            <text:p text:style-name="P18">Bean 1959<text:tab/>G.E.
+                Bean, “Notes and inscriptions from Pisidia. Part 1,”
+                    <text:span text:style-name="T35">AS</text:span> 9
+                (1959) 67-117.</text:p>
+            <text:p text:style-name="P18">Bénabou 1976<text:tab/>M.
+                Bénabou, <text:span text:style-name="T35">La
+                    résistance africaine à la
+                    romanisation,</text:span> Paris, 1976.</text:p>
+            <text:p text:style-name="P18">Bénabou 1986<text:tab/>H.
+                Bénabou, “L’Afrique” <text:s/>in Crawford 1986 pp.
+                127-141.</text:p>
+            <text:p text:style-name="P18">Bennett 1997<text:tab/>J.
+                Bennett, <text:span text:style-name="T35">Trajan,
+                    optimus princeps : a life and times,</text:span>
+                Bloomington, 1997.</text:p>
+            <text:p text:style-name="P18">Benzina ben Abdallah
+                1992<text:tab/>Z. Benzina ben Abdallah, “Du côte
+                d’Ammaedra: Musulamii et Musunii Regiani,” <text:span
+                    text:style-name="T35">AntAf</text:span> 28 (1992)
+                139-145.</text:p>
+            <text:p text:style-name="P18">Beschaouch 1968<text:tab/>A.
+                Beschaouch, “Mustitana: Recueil des nouvelles
+                inscriptions de Mustis, cité romaine de Tunisie,”
+                    <text:span text:style-name="T35"
+                    >Karthago</text:span> 14 (1965/1966)
+                121-224.</text:p>
+            <text:p text:style-name="P18">Betz 1938<text:tab/>A. Betz,
+                    <text:span text:style-name="T35">Untersuchungen
+                    zur Militärgeschichte der römischen Provinz
+                    Dalmatien,</text:span> Abhandlungen des
+                archäologisch-epigraphischen Seminars der Universität
+                Wien new series, heft 4, Baden bei Wien,
+                1938.</text:p>
+            <text:p text:style-name="P18">Binder 1987<text:tab/>G.
+                Binder (ed.), <text:span text:style-name="T35"
+                    >Saeculum Augustum I: Herrschaft und
+                    Gesellschaft,</text:span> Darmstadt,
+                1987.</text:p>
+            <text:p text:style-name="P18">Birley 1997<text:tab/>A.
+                Birley, <text:span text:style-name="T35">Hadrian: The
+                    Restless Emperor,</text:span> London,
+                1997.</text:p>
+            <text:p text:style-name="P18">Birley 2000<text:tab/>A.
+                Birley, <text:span text:style-name="T35">Marcus
+                    Aurelius: A Biography,</text:span> New York,
+                2000.</text:p>
+            <text:p text:style-name="P18">Birley 2002<text:tab/>A.
+                Birley, <text:span text:style-name="T35">The
+                    Prosopography of Roman Imperial Government: Fasti
+                    Provinciarum,</text:span> Barcelona, 2002; URL:
+                http://www.ub.es/epigraphiae/PDF/Preograma%20EPI%20DEFINITIU.pdf.</text:p>
+            <text:p text:style-name="P18">Boatwright
+                2000<text:tab/>M.T. Boatwright, <text:span
+                    text:style-name="T35">Hadrian and the Cities of
+                    the Roman Empire,</text:span> Princeton,
+                2000.</text:p>
+            <text:p text:style-name="P18">Borzsák 1986<text:tab/>I.
+                Borzsák and K. Wellesley (eds.), <text:span
+                    text:style-name="T35">Cornelii Taciti libri qui
+                    supersunt,</text:span> Leipzig,
+                1986-1992.</text:p>
+            <text:p text:style-name="P18">Bosch 1967<text:tab/>E.
+                Bosch, <text:span text:style-name="T35">Quellen zur
+                    Geschichte der Stadt Ankara im
+                    Altertum,</text:span> Ankara, 1967.</text:p>
+            <text:p text:style-name="P18">Bouchenaki 1977<text:tab/>M.
+                Bouchenaki and P. Février, “Un ‘castellum’ de la
+                region de Tipasa de Juba a Septime Severe,” <text:span
+                    text:style-name="T35">BAA</text:span> 7
+                (1977-1979) 193-215.</text:p>
+            <text:p text:style-name="P18">Bowersock 1991<text:tab/>G.
+                Bowersock, “Review of MAMA 9,” <text:span
+                    text:style-name="T35">JRS</text:span> 81 (1991)
+                223-225.</text:p>
+            <text:p text:style-name="P18">Bowman 1996<text:tab/>A.
+                Bowman, “Provincial Administration and Taxation”
+                <text:s/>in <text:span text:style-name="T35"
+                    >CAH</text:span><text:span text:style-name="T26"
+                    >2</text:span> 10 pp. 344-370.</text:p>
+            <text:p text:style-name="P18">Božilova 1985<text:tab/>V.
+                Božilova and J. Kolendo, “Гранчен стълб от 136
+                гнамерен в Нове,” <text:span text:style-name="T35"
+                    >Arch (Sofia)</text:span> 27 (1985)
+                39-46.</text:p>
+            <text:p text:style-name="P18">Brice 2002<text:tab/>L.
+                Brice, <text:span text:style-name="T35">Holding a Wolf
+                    by the Ears: Mutiny and Unrest in the Roman
+                    Military, 44 B.C.-AD 68,</text:span> Ph.D.
+                Dissertation, Chapel Hill, 2002.</text:p>
+            <text:p text:style-name="P18">Bringmann 1995<text:tab/>K.
+                Bringmann and H. von Steuben, <text:span
+                    text:style-name="T35">Schenkungen hellenistischer
+                    Herrscher an griechische Städte und
+                    Heiligtümer,</text:span> 2 vols., Berlin,
+                1995.</text:p>
+            <text:p text:style-name="P18">Bruneau 1975<text:tab/>P.
+                Bruneau, “Deliaca (II),” <text:span
+                    text:style-name="T35">BCH</text:span> 99 (1975)
+                267-311.</text:p>
+            <text:p text:style-name="P18">Buraselis 1993<text:tab/>K.
+                Buraselis, “Bemerkungen zum Dekret der Battynäer”
+                <text:s/>in <text:span text:style-name="T35">Ancient
+                    Macedonia V</text:span> 1 pp. 280-292.</text:p>
+            <text:p text:style-name="P18">Burton 1993<text:tab/>G.P.
+                Burton, “Provincial Procurators and the Public
+                Provinces,” <text:span text:style-name="T35"
+                    >Chiron</text:span> 23 (1993) 13-28.</text:p>
+            <text:p text:style-name="P18">Burton 2000<text:tab/>G.P.
+                Burton, “The Resolution of Territorial Disputes in the
+                Provinces of the Roman Empire,” <text:span
+                    text:style-name="T35">Chiron</text:span> 30 (2000)
+                195-215.</text:p>
+            <text:p text:style-name="P18">Burton 2002<text:tab/>G.
+                Burton, “The Regulation of Inter-community Relations
+                in the Provinces and the Political Integration of the
+                Roman Empire” <text:s/>in Gorman 2002 pp.
+                113-128.</text:p>
+            <text:p text:style-name="P18">Burton 2002b<text:tab/>G.
+                Burton, “The Roman Imperial State (A.D. 14-235):
+                Evidence and Reality,” <text:span
+                    text:style-name="T35">Chiron</text:span> 32 (2002)
+                249-280.</text:p>
+            <text:p text:style-name="P18">Cadoni 1993<text:tab/>E.
+                Cadoni, “La Tabula bronzea di Esterzili (CIL X, 7852 =
+                ILS 5947)” <text:s/>in Mastino 1993 pp.
+                77-98.</text:p>
+            <text:p text:style-name="P18">Cagnat 1894<text:tab/>R.
+                Cagnat, “Note sur les limites de la Province romaine
+                d’Afrique en 146,” <text:span text:style-name="T35"
+                    >CRAI</text:span> (1894) 43.</text:p>
+            <text:p text:style-name="P18">Cagnat 1903<text:tab/>R.
+                Cagnat, “Sabinius non Licinius Barbarus” <text:s/>in
+                    <text:span text:style-name="T35">Mélanges
+                    Boissier</text:span> pp. 99-102.</text:p>
+            <text:p text:style-name="P18">Cagnat 1909<text:tab/>R.
+                Cagnat, “Les <text:span text:style-name="T6"
+                    >Νυβγηνοί</text:span> de Ptolémée,” <text:span
+                    text:style-name="T35">CRAI</text:span> (1909)
+                568-579.</text:p>
+            <text:p text:style-name="P18">Camodeca 1993<text:tab/>G.
+                Camodeca, “Per una riedizione delle ‘Tabulae
+                Herculanenses’ 2” <text:s/>in <text:span
+                    text:style-name="T35">Ostraka</text:span> 2.2 pp.
+                197-209.</text:p>
+            <text:p text:style-name="P18">Camodeca 1994<text:tab/>G.
+                Camodeca, “Riedizione del trittico ercolanese TH 77 +
+                78 + 80 + 53 + 92 del 26 gennaio 69,” <text:span
+                    text:style-name="T35">BCPE</text:span> 24 (1994)
+                137-146.</text:p>
+            <text:p text:style-name="P18">Camodeca 1996<text:tab/>G.
+                Camodeca, “Una nuova coppia di consoli del 148 e il
+                proconsul Achaiae M. Calpurnius Longus,” <text:span
+                    text:style-name="T35">ZPE</text:span> 112 (1996)
+                235-240.</text:p>
+            <text:p text:style-name="P18">Campbell 1996<text:tab/>B.
+                Campbell, “Shaping the Rural Environment: Surveyors in
+                Ancient Rome,” <text:span text:style-name="T35"
+                    >JRS</text:span> 86 (1996) 74-99.</text:p>
+            <text:p text:style-name="P18">Campbell 2000<text:tab/>B.
+                Campbell, <text:span text:style-name="T35">The
+                    Writings of the Roman Land Surveyors:
+                    Introduction, Text, Translation and
+                    Commentary,</text:span> JRS Monograph 9, London,
+                2000.</text:p>
+            <text:p text:style-name="P18">Carlsen 1994<text:tab/>J.
+                Carlsen et al (eds.), <text:span text:style-name="T35"
+                    >Landuse in the Roman Empire,</text:span> Rome,
+                1994.</text:p>
+            <text:p text:style-name="P18">Carlsen 1994a<text:tab/>J.
+                Carlsen, “CIL X 8217 and the Question of Temple Land
+                in Roman Italy” <text:s/>in Carlsen 1994 pp.
+                9-15.</text:p>
+            <text:p text:style-name="P18">Carlsen 1995<text:tab/>J.
+                Carlsen, <text:span text:style-name="T35">Vilici and
+                    Roman Estate Managers Until AD 284,</text:span>
+                Rome, 1995.</text:p>
+            <text:p text:style-name="P18">Carton 1895<text:tab/>L.
+                Carton, <text:span text:style-name="T35">Découvertes
+                    épigraphiques et archéologiques faites en Tunisie
+                    (région de Dougga),</text:span> Mémoires Lille
+                5.4, Lille, 1895.</text:p>
+            <text:p text:style-name="P18">Casevitz 1993<text:tab/>M.
+                Casevitz, “Les mots de la frontière en grec”
+                <text:s/>in Roman 1993 pp. 17-24.</text:p>
+            <text:p text:style-name="P18">Champlin 1978<text:tab/>E.
+                Champlin, “Pegasus,” <text:span
+                    text:style-name="treTitle">ZPE </text:span>32
+                (1978), 269-278.</text:p>
+            <text:p text:style-name="P18">Chelotti 1985<text:tab/>M.
+                Chelotti et al, <text:span text:style-name="T35">Le
+                    epigrafi romane di Canosa,</text:span> Bari,
+                1985.</text:p>
+            <text:p text:style-name="P18">Chrimes 1949<text:tab/>K.
+                Chrimes, <text:span text:style-name="T35">Ancient
+                    Sparta, a re-examination of the
+                    evidence,</text:span> Manchester, 1949.</text:p>
+            <text:p text:style-name="P18">Christofle 1935<text:tab/>M.
+                Christofle, <text:span text:style-name="T35">Rapport
+                    sur le fouilles effectuées en 1930-1931-1932 par
+                    le service des monuments historiques de
+                    l’Algérie,</text:span> Algiers, 1935.</text:p>
+            <text:p text:style-name="P18">Christol 1982<text:tab/>M.
+                Christol and T Drew-Bear, “Une délimitation de
+                territoire en Phrygie-Carie,” <text:span
+                    text:style-name="T35">TRTurquie 1982,</text:span>
+                21-42.</text:p>
+            <text:p text:style-name="P18">Christol 1998<text:tab/>M.
+                Christol and Th. Drew-Bear, “Le prince et ses
+                représentants aux limites de l’Asie et de la Galatie:
+                un nouveau questeur et un nouveau proconsul d’Asie
+                sous Septime Sévère,” <text:span text:style-name="T35"
+                    >CahiersGlotz</text:span> 9 (1998)
+                143-164.</text:p>
+            <text:p text:style-name="P18">Contencin 1934<text:tab/>A.
+                Contencin, “Note sur une borne de la Fossa Regia,”
+                    <text:span text:style-name="T35">BCTH</text:span>
+                (1934/5) 390.</text:p>
+            <text:p text:style-name="P18">Crawford 1986<text:tab/>M.
+                Crawford (ed.), <text:span text:style-name="T35"
+                    >L’Impero romano e le strutture economiche e
+                    sociali delle province,</text:span> Como,
+                1986.</text:p>
+            <text:p text:style-name="P18">Crook 1967<text:tab/>J.
+                Crook, <text:span text:style-name="T35">Law and Life
+                    of Rome,</text:span> Ithaca, NY, 1967.</text:p>
+            <text:p text:style-name="P18">Daux 1976<text:tab/>G. Daux,
+                “L’Amphictyonie delphique sous l’Empire” in <text:span
+                    text:style-name="T35">Recueil Plassart</text:span>
+                pp. 59-79.</text:p>
+            <text:p text:style-name="P18">De Franciscis
+                1956<text:tab/>A. de Franciscis, “Templum Dianae
+                Tifatinae,” <text:span text:style-name="T35"
+                    >ASTL</text:span> 1 (1956) 301-358.</text:p>
+            <text:p text:style-name="P18">De Franciscis
+                1966<text:tab/>A. De Franciscis, “Note sui ‘Praedia
+                Dianae Tifatinae’,” <text:span text:style-name="T35"
+                    >RAALN</text:span> 41 (1966) 241-246.</text:p>
+            <text:p text:style-name="P18">Desanges 1962<text:tab/>J.
+                Desanges, <text:span text:style-name="T35">Catalogue
+                    des tribus Africaines de l’antiquité classique a
+                    l’ouest du Nil,</text:span> Dakar, 1962.</text:p>
+            <text:p text:style-name="P18">Desanges 1983<text:tab/>J.
+                Desanges and S. Lancel, “L’apport des nouvelles
+                Lettres à la géographie historique de l’Afrique
+                antique et de l’Église d’Afrique” <text:s/>in
+                    <text:span text:style-name="T35">Lettres de Saint
+                    Augustin découvertes</text:span> pp.
+                87-99.</text:p>
+            <text:p text:style-name="P18">Desanges 1994<text:tab/>J.
+                Desanges, “Auguste a-t-il confirmé une décision de
+                Juba II dans l’administration interne du royaume
+                protégé de Maurétanie?,” <text:span
+                    text:style-name="T35">BCTH</text:span> 23
+                (1990-1992) 218-220.</text:p>
+            <text:p text:style-name="P18">Devijver 1976<text:tab/>H.
+                Devijver, <text:span text:style-name="T35"
+                    >Prosopographia militiarum equestrium quae fuerunt
+                    ab Augusto ad Gallienum,</text:span> 3 vols.,
+                Leuven, 1976-1980.</text:p>
+            <text:p text:style-name="P18">Di Vita-Evrard
+                1979<text:tab/>G. di Vita-Evrard, “Quatre inscriptions
+                du Djebel Tarhuna: le territoire de Lepcis Magna,”
+                    <text:span text:style-name="T35">QAL</text:span>
+                10 (1979) 67-98 and map.</text:p>
+            <text:p text:style-name="P18">Dignas 2002<text:tab/>B.
+                Dignas, <text:span text:style-name="T35">Economy of
+                    the sacred in Hellenistic and Roman Asia
+                    Minor,</text:span> New York, 2002.</text:p>
+            <text:p text:style-name="P18">Dindorf 1868<text:tab/>L.
+                Dindorf (ed.), <text:span text:style-name="T35"
+                    >Ioannis Zonarae Epitome Historiarum,</text:span>
+                6 vols., Leipzig, 1868-1875.</text:p>
+            <text:p text:style-name="P18">Doblhofer 1960<text:tab/>E.
+                Doblhofer, “Eine Grenzregelung in Kilikien,”
+                    <text:span text:style-name="T35">JÖAI</text:span>
+                45 (1960) Hauptblatt 39-44.</text:p>
+            <text:p text:style-name="P18">Dobson 1978<text:tab/>B.
+                Dobson, <text:span text:style-name="T35">Die
+                    Primipilares: Entwicklung und Bedeutung,
+                    Laufbahnen und Persönlichkeiten eines römischen
+                    Offiziersranges,</text:span> Cologne,
+                1978.</text:p>
+            <text:p text:style-name="P18">Doukellis 1995<text:tab/>P.
+                Doukellis and S. Zoumbaki, “De Flamininus aux
+                Antonins: Conquête et aménagements de l’espace
+                extra-urbain en Achaïe et Macédoine,” <text:span
+                    text:style-name="T35">DHA</text:span> 21.2 (1995)
+                205-228.</text:p>
+            <text:p text:style-name="P18">Ducrey 1969<text:tab/>P.
+                Ducrey, “Trois nouvelles inscriptions crétoises,”
+                    <text:span text:style-name="T35">BCH</text:span>
+                93 (1969) 841-852.</text:p>
+            <text:p text:style-name="P18">Eck 1999<text:tab/>W. Eck
+                (ed.), <text:span text:style-name="T35">Lokale
+                    Autonomie und römische Ordnungsmacht in den
+                    kaiserzeitlichen Provinzen vom 1. bis 3.
+                    Jahrhundert,</text:span> Munich, 1999.</text:p>
+            <text:p text:style-name="P18">Ehrenberg 1955<text:tab/>V.
+                Ehrenberg and A. Jones (eds.), <text:span
+                    text:style-name="T35">Documents Illustrating the
+                    Reigns of Augustus and Tiberius,</text:span>
+                Oxford, 1955.</text:p>
+            <text:p text:style-name="P18">Elliott 1997<text:tab/>T.
+                Elliott, <text:span text:style-name="T35">Diocletianic
+                    Census Inscriptions from the Aegean Islands and
+                    Asia Minor,</text:span> M.A. Thesis, Chapel Hill,
+                1997.</text:p>
+            <text:p text:style-name="P18">Engelmann 1993<text:tab/>H.
+                Engelmann, “Zum Kaiserkult in Ephesos,” <text:span
+                    text:style-name="T35">ZPE</text:span> 97 (1993)
+                279-289.</text:p>
+            <text:p text:style-name="P18">Engelmann 1998<text:tab/>H.
+                Engelmann, “Ephesiaca,” <text:span
+                    text:style-name="T35">ZPE</text:span> 121 (1998)
+                305-311.</text:p>
+            <text:p text:style-name="P18">Engelmann 1999<text:tab/>H.
+                Engelmann, “Inschriften aus Metropolis,” <text:span
+                    text:style-name="T35">ZPE</text:span> 125 (1999)
+                137-146.</text:p>
+            <text:p text:style-name="P18">Faraone 1991<text:tab/>C.
+                Faraone and D. Obbink, eds., <text:span
+                    text:style-name="T35">Magika Hiera: Ancient Greek
+                    Magic and Religion,</text:span> New York,
+                1991.</text:p>
+            <text:p text:style-name="P18">Faraone 1991a<text:tab/>C.
+                Faraone, “The Agonistic Context of Early Greek Binding
+                Spells” <text:s/>in Faraone 1991 pp. 3-32.</text:p>
+            <text:p text:style-name="P18">Fentress 1979<text:tab/>E.
+                Fentress, <text:span text:style-name="T35">Numidia and
+                    the Roman Army: Social, Military and Economic
+                    Aspects of the Frontier Zone,</text:span> BAR
+                International Series 53, Oxford, 1979.</text:p>
+            <text:p text:style-name="P18">Fitz 1966<text:tab/>J. Fitz,
+                    <text:span text:style-name="T35">Die Laufbahn der
+                    Statthalter in der römischen Provinz Moesia
+                    Inferior,</text:span> Weimar, 1966.</text:p>
+            <text:p text:style-name="P18">Fossey 1981<text:tab/>J.
+                Fossey, “The City Archive at Koroneia,” <text:span
+                    text:style-name="T35">Euphrosyne</text:span> 11
+                (1981/82) 44-59.</text:p>
+            <text:p text:style-name="P18">Franklin 2001<text:tab/>J.
+                Franklin, <text:span text:style-name="T35">Pompeis
+                    difficile est: studies in the political life of
+                    imperial Pompeii,</text:span> Ann Arbor,
+                2001.</text:p>
+            <text:p text:style-name="P18">French 1991<text:tab/>D.
+                French, “Sites and Inscriptions from Phrygia, Pisidia
+                and Pamphylia,” <text:span text:style-name="T35"
+                    >EA</text:span> 17 (1981) 51-68.</text:p>
+            <text:p text:style-name="P18">French 1997<text:tab/>D.H.
+                French, “Inscriptions in the Museums of Akşehir and
+                Yalvaç,” <text:span text:style-name="T35"
+                    >EA</text:span> 29 (1997) 60-64.</text:p>
+            <text:p text:style-name="P18">Frézouls 1981<text:tab/>E.
+                Frézouls, “A propos de la Tabula Clesiana,” <text:span
+                    text:style-name="T35">Ktema</text:span> 6 (1981)
+                239-252.</text:p>
+            <text:p text:style-name="P18">Gager 1992<text:tab/>J.
+                Gager, <text:span text:style-name="T35">Curse Tablets
+                    and Binding Spells from the Ancient
+                    World,</text:span> Oxford, 1992.</text:p>
+            <text:p text:style-name="P18">Garcia Rozas
+                1993<text:tab/>R. Garcia Rozas and J. Abasolo,
+                “Bronces Romanos del Museo de Zamora,” in Bronces y
+                Religion Romana pp. 170-196.</text:p>
+            <text:p text:style-name="P18">Gascou 1983<text:tab/>J.
+                Gascou, “Pagus et castellum dans la confédération
+                cirtéenne,” <text:span text:style-name="T35"
+                    >AntAf</text:span> 19 (1983) 175-207.</text:p>
+            <text:p text:style-name="P18">Gascou 1989<text:tab/>J.
+                Gascou and R. Guéry, “Inscriptions du sud
+                Constantinois,” <text:span text:style-name="T35"
+                    >AntAf</text:span> 25 (1989) 135-176.</text:p>
+            <text:p text:style-name="P18">Gasperini 1992<text:tab/>L.
+                Gasperini (ed.), <text:span text:style-name="T35"
+                    >Rupes Loquentes: Atti del Convegno internazionale
+                    di studio sulle iscrizioni rupestri de età Romana
+                    in Italia, Roma - Bomarzo 13-15. X.
+                    1989,</text:span> Tivoli, 1992.</text:p>
+            <text:p text:style-name="P18">Gasperini 1992a<text:tab/>L.
+                Gasperini, “Il Macigno dei Balari ai Piedi del Monte
+                Limbara (Sardegna Nord-Orientale)” <text:s/>in
+                Gasperini 1992 pp. 579-589.</text:p>
+            <text:p text:style-name="P18">Gorman 2002<text:tab/>V.
+                Gorman and E. Robinson, <text:span
+                    text:style-name="T35">Oikistes: Studies in
+                    Constitutions, Colonies, and Military Power in the
+                    Ancient World. Offered in Honor of A.J.
+                    Graham,</text:span> Mnemosyne Suppl. 234, Leiden,
+                2002.</text:p>
+            <text:p text:style-name="P18">Gschnitzer 1994<text:tab/>F.
+                Gschnitzer, “Zur Terminologie der Grenze und des
+                Gebietes im Griechischen” <text:s/>in Sonnabend 1994
+                pp. 25-33.</text:p>
+            <text:p text:style-name="P18">Guénin 1908<text:tab/>M. Le
+                Commandant Guénin, “Inventaire archéologique du cercle
+                de Tébessa,” <text:span text:style-name="T35"
+                    >NouvArch</text:span> 17 (1908) 75-234.</text:p>
+            <text:p text:style-name="P18">Haensch 1999<text:tab/>R.
+                Haensch, “Heraclea ad Salbacum, die heiligen Dörfer
+                der Artemis Sbryallis und der Kaiser” <text:s/>in Eck
+                1999 pp. 115-139.</text:p>
+            <text:p text:style-name="P18">Hatzopoulos
+                1989<text:tab/>M. Hatzopoulos and L. Loukopoulou,
+                    <text:span text:style-name="T35">Morrylos, cité de
+                    la Crestonie,</text:span> Athens, 1989.</text:p>
+            <text:p text:style-name="P18">Henzen 1856<text:tab/>G.
+                Henzen, “Iscrizione di Lamia,” <text:span
+                    text:style-name="T35">Bullettino dell’
+                    Instituto</text:span> (1856) 72-76.</text:p>
+            <text:p text:style-name="P18">Hitchner 1994<text:tab/>R.
+                Hitchner, “Image and Reality: The Changing Face of
+                Pastoralism in the Tunisian High Steppe” <text:s/>in
+                Carlsen 1994 pp. 27-43.</text:p>
+            <text:p text:style-name="P18">Horsley
+                1998<text:tab/>G.H.R. Horsley and R.A. Kearsley,
+                “Another Boundary Stone between Tymbrianassos and
+                Sagalassos in Pisidia,” <text:span
+                    text:style-name="T35">ZPE</text:span> 121 (1998)
+                123-129.</text:p>
+            <text:p text:style-name="P18">Içten 1998<text:tab/>Ç.
+                Içten and H. Engelmann, “Inschriften aus Ephesos und
+                Kolophon,” <text:span text:style-name="T35"
+                    >ZPE</text:span> 120 (1998) 83-91.</text:p>
+            <text:p text:style-name="P18">Jacques 1987<text:tab/>F.
+                Jacques, “Biens caducs revendiques par la cite
+                d’Ostie. Attribution et delimitation d’un Terrain
+                d’apres une nouvelle inscription du Latium,”
+                    <text:span text:style-name="T35"
+                    >Epigraphica</text:span> 49 (1987) 29-70.</text:p>
+            <text:p text:style-name="P18">Jiménez de Furundarena
+                1999<text:tab/>A. Jiménez de Furundarena, “La Carrera
+                de Titus Suedius Clemens,” <text:span
+                    text:style-name="T35">HAnt</text:span> 23 (1999)
+                167-172.</text:p>
+            <text:p text:style-name="P18">Jones 1992<text:tab/>C.
+                Jones, “Review of: James H. Oliver, Greek
+                Constitutions of Early Roman Emperors from
+                Inscriptions and Papyri,” <text:span
+                    text:style-name="T35">AJP</text:span> 113 (1992)
+                144-147.</text:p>
+            <text:p text:style-name="P18">Kazarow 1923<text:tab/>G.
+                Kazarow, “Inscriptions et antiquités de la Macédoine
+                occidentale (Régions de Mariovo et de Prilep),”
+                    <text:span text:style-name="T35">BCH</text:span>
+                47 (1923) 275-300.</text:p>
+            <text:p text:style-name="P18">Kehoe 1988<text:tab/>D.
+                Kehoe, <text:span text:style-name="T35">The Economics
+                    of Agriculture on Roman Imperial Estates in North
+                    Africa,</text:span> Hypomnemata 89, Göttingen,
+                1988.</text:p>
+            <text:p text:style-name="P18">Khanoussi 1992<text:tab/>M.
+                Khanoussi, “Présence et rôle de l’armée romaine dans
+                la région des Grandes Plaines (Afrique Proconsulaire)”
+                <text:s/>in <text:span text:style-name="T35">Africa
+                    romana 9</text:span> pp. 319-328.</text:p>
+            <text:p text:style-name="P18">Kierdorf 1987<text:tab/>W.
+                Kierdorf, “Freundschaft und Freundschaftskündigung von
+                der Republik zum Prinzipat” <text:s/>in Binder 1987
+                pp. 223-245.</text:p>
+            <text:p text:style-name="P18">Knibbe 1979<text:tab/>D.
+                Knibbe et al., “Der Grundbesitz der ephesischen
+                Artemis im Kaystrostal,” <text:span
+                    text:style-name="T35">ZPE</text:span> 33 (1979)
+                139-147.</text:p>
+            <text:p text:style-name="P18">Knibbe 1989<text:tab/>J.
+                Knibbe et al, “Neue Inschriften aus Ephesos XI,”
+                    <text:span text:style-name="T35">JÖAI</text:span>
+                59 Beiblatt (1989) 161-238.</text:p>
+            <text:p text:style-name="P18">Krummrey 1980<text:tab/>H.
+                Krummrey and S. Panciera, “Criteri di edizione e segni
+                diacritici,” <text:span text:style-name="treTitle"
+                    >Tituli</text:span> 2 (1980), 205-215.</text:p>
+            <text:p text:style-name="P18">Laffi 1971<text:tab/>U.
+                Laffi, “I terreni del tempio di Zeus ad Aizanoi: Le
+                iscrizioni sulla parete interna dell’anta destra del
+                pronaos,” <text:span text:style-name="T35"
+                    >Athenaeum</text:span> 49 (1971) 3-53.</text:p>
+            <text:p text:style-name="P18">Lamboglia 1959<text:tab/>N.
+                Lamboglia, “Una nuova popolazione Pirenaica: Gli
+                Olossitani,” <text:span text:style-name="T35"
+                    >RSL</text:span> 25 (1959) 147-161.</text:p>
+            <text:p text:style-name="P18">Lassus 1960<text:tab/>J.
+                Lassus, “L’archéologie algérienne en 1959,” <text:span
+                    text:style-name="T35">Libyca</text:span> 8 (1960)
+                1-109.</text:p>
+            <text:p text:style-name="P18">Le Bohec 1989<text:tab/>Y.
+                Le Bohec, <text:span text:style-name="T35">La
+                    Troisième Légion Auguste,</text:span> Paris,
+                1989.</text:p>
+            <text:p text:style-name="P18">Le Bohec 1990<text:tab/>Y.
+                Le Bohec, “De Sila à Gadiaufala: urbanisation et
+                municipalisation dans le Numidie cirtéenne
+                méridionale” <text:s/>in <text:span
+                    text:style-name="T35">L’Afrique dans l’Occident
+                    romain</text:span> pp. 291-313.</text:p>
+            <text:p text:style-name="P18">Le Roux 1994<text:tab/>P. Le
+                Roux, “Cités et territoires en Hispanie: L’épigraphie
+                des limites,” <text:span text:style-name="T35"
+                    >MCV</text:span> 30 (1994) 37-51.</text:p>
+            <text:p text:style-name="P18">Leschi 1957<text:tab/>L.
+                Leschi, <text:span text:style-name="T35">Études
+                    d’épigraphie, d’archéologie et d’histoire
+                    africaines,</text:span> Paris, 1957.</text:p>
+            <text:p text:style-name="P18">Leschi 1957a<text:tab/>L.
+                Leschi, “Une assignation de terre sous Septime Sévère”
+                <text:s/>in Leschi 1957 pp. 75-79.</text:p>
+            <text:p text:style-name="P18">Logeart 1939<text:tab/>F.
+                Logeart, “Bornes délimitatives dans le sud du
+                territoire de Cirta,” <text:span text:style-name="T35"
+                    >RevAfr</text:span> 83 (1939) 161-181.</text:p>
+            <text:p text:style-name="P18">Lucas 1997<text:tab/>G.
+                Lucas, <text:span text:style-name="T35">Les cités
+                    antiques de la haute vallée du Titarèse et de
+                    géographie historique antique avec corpus des
+                    inscriptions,</text:span> Lyon, 1997.</text:p>
+            <text:p text:style-name="P18">MacKay 1965<text:tab/>P.
+                MacKay, “A Macedonian Boundary Inscription of A.D.
+                114,” <text:span text:style-name="T35"
+                    >Hesperia</text:span> 34 (1965) 248-251.</text:p>
+            <text:p text:style-name="P18">Mason 1974<text:tab/>H.
+                Mason, <text:span text:style-name="T35">Greek Terms
+                    for Roman Institutions: A Lexicon and
+                    Analysis,</text:span> American Studies in
+                Papyrology 13, Toronto, 1974.</text:p>
+            <text:p text:style-name="P18">Mastino 1993<text:tab/>A.
+                Mastino, <text:span text:style-name="T35">La Tavola di
+                    Esterzili: il conflitto tra pastori e contadini
+                    nella </text:span>Barbaria<text:span
+                    text:style-name="T35"> sarda: convegno di studi,
+                    Esterzili, 13 giugno 1992,</text:span> Sassari,
+                1993.</text:p>
+            <text:p text:style-name="P18">Matthews 1984<text:tab/>J.
+                Matthews, “The tax law of Palmyra. Evidence for
+                economic history in a city of the Roman East,”
+                    <text:span text:style-name="T35">JRS</text:span>
+                74 (1984) 157-180.</text:p>
+            <text:p text:style-name="P18">Mattingly
+                1994<text:tab/>D.J. Mattingly, <text:span
+                    text:style-name="T35">Tripolitania,</text:span>
+                Ann Arbor, 1994.</text:p>
+            <text:p text:style-name="P18">M’Charek 1999<text:tab/>A.
+                M’Charek, “De Saint Augutin à Al-Bakri: sur la
+                localisation de l’ager Bullensis dans l’Africa
+                latino-chrétienne et de ‘Fahs Boll’ en Ifriqiya
+                arabo-musulmane,” <text:span text:style-name="T35"
+                    >CRAI</text:span> (1999) 115-142.</text:p>
+            <text:p text:style-name="P18">Merryweather
+                2003<text:tab/>A. Merryweather and J. Prag, <text:span
+                    text:style-name="T35">Romanization? Proceedings of
+                    a Post-graduate Colloquium, The Institute of
+                    Classical Studies, London, 15 November
+                    2002,</text:span> Digressus Supplement 1, London,
+                2003.</text:p>
+            <text:p text:style-name="P18">Millar 1992<text:tab/>F.
+                Millar, <text:span text:style-name="T35">The Emperor
+                    in the Roman World (31 BC - AD 337),</text:span>
+                Ithaca, NY, 1992.</text:p>
+            <text:p text:style-name="P18">Millar 1993<text:tab/>F.
+                Millar, <text:span text:style-name="T35">The Roman
+                    Near East: 31 BC - AD 337,</text:span> Cambridge,
+                MA, 1993.</text:p>
+            <text:p text:style-name="P18">Mitchell 1976<text:tab/>S.
+                Mitchell, “Requisitioned Transport in the Roman
+                Empire: A New Inscription from Pisidia,” <text:span
+                    text:style-name="T35">JRS</text:span> 66 (1976)
+                106-131.</text:p>
+            <text:p text:style-name="P18">Moatti 1993<text:tab/>C.
+                Moatti, <text:span text:style-name="T35">Archives et
+                    partage de la terre dans le monde Romain (IIe
+                    siècle avant - Ier siècle après
+                    J.-C.),</text:span> CollEFR 173, Rome,
+                1993.</text:p>
+            <text:p text:style-name="P18">Bakalakis 1937<text:tab/>G.
+                Bakalakis, “<text:span text:style-name="T6"
+                    >Παρανεστιοι</text:span>
+                <text:span text:style-name="T6"
+                    >Ἀρχαιότητες</text:span>,” <text:span
+                    text:style-name="T35">Thrakika</text:span> 8
+                (1937) 15-31.</text:p>
+            <text:p text:style-name="P18">Naddari 2000<text:tab/>L.
+                Naddari, “Une nouvelle borne des Musulames,”
+                    <text:span text:style-name="T35"
+                    >Africa</text:span> 18 (2000) 43-51.</text:p>
+            <text:p text:style-name="P18">Navarro 1999<text:tab/>F.
+                Navarro, “P. Stertinius Quartus, Governatore di
+                Numidia,” <text:span text:style-name="T35"
+                    >Epigraphica</text:span> 61 (1999) 67-79.</text:p>
+            <text:p text:style-name="P18">Oliver 1965<text:tab/>J.
+                Oliver, “Texts A and B of the <text:span
+                    text:style-name="treLatin">Horothesia</text:span>
+                Dossier at Istros,” <text:span text:style-name="T35"
+                    >GRBS</text:span> 6 (1965) 143-156.</text:p>
+            <text:p text:style-name="P18">Oliver 1989<text:tab/>J.
+                Oliver, <text:span text:style-name="T35">Greek
+                    Constitutions of Early Roman Emperors from
+                    Inscriptions and Papyri,</text:span> MemoirsAPS
+                178, Philadelphia, 1989.</text:p>
+            <text:p text:style-name="P18">Ors 1953<text:tab/>Alvaro
+                D’Ors, <text:span text:style-name="T35">Epigrafía
+                    Jurídica de la España Romana,</text:span> Madrid,
+                1953.</text:p>
+            <text:p text:style-name="P18">Papazoglou 1979<text:tab/>F.
+                Papazoglou, “Gouverneurs de Macédoine: a propos du
+                second volume des Fasti, par Th. Sarikakis,”
+                    <text:span text:style-name="T35">ZAnt</text:span>
+                29 (1979) 237-249.</text:p>
+            <text:p text:style-name="P18">Parvan 1915<text:tab/>V.
+                Parvan, “Fouilles d’Ulmetum (Roumanie), 1911-1914,”
+                    <text:span text:style-name="T35">AA</text:span>
+                (1915) 236-247.</text:p>
+            <text:p text:style-name="P18">Patchère 1911<text:tab/>F.
+                de Patchère, “Excursion archéologique dans la région
+                du Fahs et de Téboursouk,” <text:span
+                    text:style-name="T35">BCTH</text:span> (1911)
+                402-403.</text:p>
+            <text:p text:style-name="P18">Petsa 1996<text:tab/>Ph.
+                Petsa, “<text:span text:style-name="T6"
+                    >Χρονικὰ</text:span>
+                <text:span text:style-name="T6"
+                    >Ἀρχαιολογικά</text:span>,” <text:span
+                    text:style-name="T35">Makedonika</text:span> 7
+                (1966/7) 287-368.</text:p>
+            <text:p text:style-name="P18">Pflaum 1960<text:tab/>H.-G.
+                Pflaum, <text:span text:style-name="T35">Les Carrières
+                    procuratoriennes équestres sous le haut-empire
+                    Romain,</text:span> 4 vols., Paris,
+                1960-1961.</text:p>
+            <text:p text:style-name="P18">Piccirilli 1973<text:tab/>F.
+                Piccirilli, <text:span text:style-name="T35">Gli
+                    Arbitrati Interstatali Greci</text:span>, Pisa,
+                1973.</text:p>
+            <text:p text:style-name="P18">Piganiol 1962<text:tab/>A.
+                Piganiol, <text:span text:style-name="T35">Les
+                    documents cadastraux de la colonie romaine
+                    d’Orange,</text:span> Paris, 1962.</text:p>
+            <text:p text:style-name="P18">Pikoulas 1998<text:tab/>G.
+                Pikoulas, “<text:span text:style-name="T6"
+                    >Τερμονισμοὶ</text:span>
+                <text:span text:style-name="T6"
+                    >Πελοποννήσου</text:span>” <text:s/>in <text:span
+                    text:style-name="T35">Horos</text:span> 10-12 pp.
+                313-325.</text:p>
+            <text:p text:style-name="P18">Pikoulas 1999<text:tab/>G.
+                Pikoulas, “<text:span text:style-name="T6"
+                    >Τερμονισμοί</text:span>
+                <text:span text:style-name="T6"
+                >Μακεδονίας</text:span>: <text:span
+                    text:style-name="T6">πρώτη</text:span>
+                <text:span text:style-name="T6">συμβολή</text:span>”
+                <text:s/>in <text:span text:style-name="T35">Ancient
+                    Macedonia VI</text:span> 2 pp. 893-902.</text:p>
+            <text:p text:style-name="P18">Pilhofer 1995<text:tab/>P.
+                Pilhofer, <text:span text:style-name="T35"
+                    >Philippi,</text:span> 2 vols., Tübingen,
+                1995-2000.</text:p>
+            <text:p text:style-name="P18">Plana 1995<text:tab/>R.
+                Plana and M. José Pena, “Ampurias: cuestiones agrarias
+                y jurídicas de finales de la república,” <text:span
+                    text:style-name="T35">StudHist</text:span> 13/14
+                (1995/1996) 89-104.</text:p>
+            <text:p text:style-name="P18">Poinssot 1920<text:tab/>L.
+                Poinssot, “Deux Inscriptions d’Aunobari,” <text:span
+                    text:style-name="T35">CRAI</text:span> (1920)
+                140-146.</text:p>
+            <text:p text:style-name="P18">Poinssot 1938<text:tab/>L.
+                Poinssot, “Une borne inédite de la Fossa Regia,”
+                    <text:span text:style-name="T35">BCTH</text:span>
+                (1938/40) 203-204.</text:p>
+            <text:p text:style-name="P18">Pratilli 1745<text:tab/>F.
+                Pratilli, <text:span text:style-name="T35">Della Via
+                    Appia riconosciuta e descritta da Roma a
+                    Brindisi,</text:span> Naples, 1745.</text:p>
+            <text:p text:style-name="P18">Pugliese Carratelli
+                1961<text:tab/>G. Pugliese Carratelli, “Supplemento
+                epigrafico cirenaico,” <text:span
+                    text:style-name="T35">AnnScAA</text:span> 39-40
+                (1961-1962) 219-375.</text:p>
+            <text:p text:style-name="P18">Quinn 2003<text:tab/>J.
+                Quinn, “Roman Africa?” <text:s/>in Merryweather 2003
+                pp. 7-34.</text:p>
+            <text:p text:style-name="P18">Ramsay 1886<text:tab/>W.M.
+                Ramsay, “Notes and Inscriptions from Asia Minor,”
+                    <text:span text:style-name="T35">AJA</text:span>
+                (series 1) 2 (1886) 128-131.</text:p>
+            <text:p text:style-name="P18">Ramsay 1895<text:tab/>W.M.
+                Ramsay, <text:span text:style-name="T35">The Cities
+                    and Bishoprics of Phrygia,</text:span> 2 vols.,
+                Oxford, 1895.</text:p>
+            <text:p text:style-name="P18">Ramsay 1941<text:tab/>W.M.
+                Ramsay, <text:span text:style-name="T35">The Social
+                    Basis of Roman Power in Asia Minor,</text:span>
+                Aberdeen, 1941.</text:p>
+            <text:p text:style-name="P18">Reynolds 1965<text:tab/>J.
+                Reynolds and R. Goodchild, “The city lands of
+                Apollonia in Cyrenaica,” <text:span
+                    text:style-name="T35">LA</text:span> 2 (1965)
+                103-107.</text:p>
+            <text:p text:style-name="P18">Reynolds 1971<text:tab/>J.
+                Reynolds, “New Boundary stones from the public land of
+                the Roman People in Cyrenaica,” <text:span
+                    text:style-name="T35">LA</text:span> 8 (1971)
+                47-51.</text:p>
+            <text:p text:style-name="P18">Rigsby 1976<text:tab/>K.
+                Rigsby, “Cnossus and Capua” <text:s/>in <text:span
+                    text:style-name="T35">TAPA</text:span> 106 pp.
+                313-330.</text:p>
+            <text:p text:style-name="P18">Rigsby 1996<text:tab/>K.
+                Rigsby, <text:span text:style-name="T35">Asylia:
+                    Territorial Inviolability in the Hellenistic
+                    World,</text:span> Berkeley, 1996.</text:p>
+            <text:p text:style-name="P18">Rizakis 1985<text:tab/>Th.
+                Rizakis and G. Tourasoglou, <text:span
+                    text:style-name="T9"
+                    >Ἐπιγραφὲς</text:span><text:span
+                    text:style-name="T35"> </text:span><text:span
+                    text:style-name="T9">ἄνω</text:span><text:span
+                    text:style-name="T35"> </text:span><text:span
+                    text:style-name="T9"
+                    >Μακεδονίας</text:span><text:span
+                    text:style-name="T35"> (</text:span><text:span
+                    text:style-name="T9">Ἐλίμεια</text:span><text:span
+                    text:style-name="T35">, </text:span><text:span
+                    text:style-name="T9">Ἐορδαία</text:span><text:span
+                    text:style-name="T35">, </text:span><text:span
+                    text:style-name="T9">Νότια</text:span><text:span
+                    text:style-name="T35"> </text:span><text:span
+                    text:style-name="T9"
+                    >Λυγκηστίς</text:span><text:span
+                    text:style-name="T35">, </text:span><text:span
+                    text:style-name="T9">Ὀρεστίς</text:span><text:span
+                    text:style-name="T35">),</text:span> Athens,
+                1985.</text:p>
+            <text:p text:style-name="P18">Robert 1938<text:tab/>L.
+                Robert, <text:span text:style-name="T35">Études
+                    épigraphiques et philologiques,</text:span> Paris,
+                1938.</text:p>
+            <text:p text:style-name="P18">Robert 1940<text:tab/>L.
+                Robert, <text:span text:style-name="T35">Hellenica.
+                    Recueil d’épigraphie de numismatique et
+                    d’antiquitiés grecques,</text:span> 13 vols.,
+                Limoges, 1940-.</text:p>
+            <text:p text:style-name="P18">Robert 1940a<text:tab/>L.
+                Robert, “Inscriptions de Bithynie copiées par Georges
+                Radet,” <text:span text:style-name="T35"
+                    >REA</text:span> 42 (1940) 302-322.</text:p>
+            <text:p text:style-name="P18">Roesch 1985<text:tab/>P.
+                Roesch, <text:span text:style-name="T35">Tiresias:
+                    Appendix Epigraphica</text:span>, 1985.</text:p>
+            <text:p text:style-name="P18">Roman 1993<text:tab/>Y.
+                Roman, <text:span text:style-name="T35">La frontière:
+                    séminaire de recherche,</text:span> Lyon,
+                1993.</text:p>
+            <text:p text:style-name="P18">Romanelli 1939<text:tab/>P.
+                Romanelli, “Tre iscrizioni tripolitane di interesse
+                storico,” <text:span text:style-name="T35"
+                    >Epigraphica</text:span> 1 (1939) 99-118.</text:p>
+            <text:p text:style-name="P18">Rousset 1994<text:tab/>D.
+                Rousset, “Les frontières des cités grecques. Premières
+                réflexions à partir du recueil des documents
+                èpigraphiques,” <text:span text:style-name="T35"
+                    >CahiersGlotz</text:span> 5 (1994)
+                97-126.</text:p>
+            <text:p text:style-name="P18">Rousset 2002<text:tab/>D.
+                Rousset, <text:span text:style-name="T35">Le
+                    territoire de Delphes et la terre
+                    d’Apollon,</text:span> BEFAR 302, Paris,
+                2002.</text:p>
+            <text:p text:style-name="P18">Şahin 1984<text:tab/>S.
+                Şahin, “Ti. Iulius Frugi: proconsul von
+                Lycia-Pamphylia unter Mark Aurel und Verus, Abgrenzung
+                des Stadtgebiets von Arykanda,” <text:span
+                    text:style-name="T35">EA</text:span> 3 (1984)
+                39-48.</text:p>
+            <text:p text:style-name="P18">Şahin 1986<text:tab/>S.
+                Şahin, “Studien über die Probleme der historischen
+                Geographie des nordwestlichen Kleinasiens I: Strabon
+                XII 3,7 p. 543, der Fluss Gallos, die Stadt
+                Modr&lt;en&gt;e in Phrygia Epiktetos und die
+                Schiffbarkeit des Sangarios,” <text:span
+                    text:style-name="T35">EA</text:span> 7 (1986)
+                125-152.</text:p>
+            <text:p text:style-name="P18">Şahin 1992<text:tab/>S.
+                Şahin, “Statthalter der Provinzen Pamphylia-Lycia und
+                Bithynia-Pontus in der Zeit der Statusänderung beider
+                Provinzen unter Mark Aurel und Lucius Verus,”
+                    <text:span text:style-name="T35">EA</text:span> 20
+                (1992) 80-89.</text:p>
+            <text:p text:style-name="P18">Sarikakes
+                1971<text:tab/>Theodoros Sarikakes, <text:span
+                    text:style-name="T35">Romaioi archontes tes
+                    eparchias Makedonias,</text:span> 2 vols.,
+                Thessalonike, 1971-1977.</text:p>
+            <text:p text:style-name="P18">Scherrer 1990<text:tab/>P.
+                Scherrer, “Augustus, die Mission des Vedius Pollio und
+                die Artemis Ephesia,” <text:span text:style-name="T35"
+                    >JÖAI</text:span> 60 (1990) 87-101.</text:p>
+            <text:p text:style-name="P18">Schlumberger
+                1939<text:tab/>D. Schlumberger, “Bornes frontières de
+                la Palmyrène,” <text:span text:style-name="T35"
+                    >Syria</text:span> 20 (1939) 43-73.</text:p>
+            <text:p text:style-name="P18">Slootjes 2000<text:tab/>D.
+                Slootjes, <text:span text:style-name="T35">Ceremonies
+                    upon the arrival of the governor: a forgotten
+                    aspect of Roman imperial routine,</text:span> M.A.
+                Thesis, Chapel Hill, 2000.</text:p>
+            <text:p text:style-name="P18">Smallwood 1966<text:tab/>E.
+                Smallwood, <text:span text:style-name="T35">Documents
+                    Illustrating the Principates of Nerva, Trajan and
+                    Hadrian,</text:span> Cambridge, 1966.</text:p>
+            <text:p text:style-name="P18">Smallwood 1967<text:tab/>E.
+                Smallwood, <text:span text:style-name="T35">Documents
+                    Illustrating the principates of Gaius, Claudius
+                    and Nero,</text:span> Cambridge, 1967.</text:p>
+            <text:p text:style-name="P18">Sonnabend 1994<text:tab/>H.
+                Sonnabend and E. Olshausen (eds.), <text:span
+                    text:style-name="T35">Stuttgarter Kolloquium zur
+                    historischen Geographie des Altertums 4,
+                    1990,</text:span> Bonn, 1994.</text:p>
+            <text:p text:style-name="P18">Spano 1910b<text:tab/>G.
+                Spano, “Pompei - Relazione degli scavi eseguiti negli
+                anni 1908 e 1909,” <text:span text:style-name="T35"
+                    >NSA</text:span> (1910) 377-418.</text:p>
+            <text:p text:style-name="P18">Stadter 1980<text:tab/>P.
+                Stadter, <text:span text:style-name="T35">Arrian of
+                    Nicomedia,</text:span> Chapel Hill, 1980.</text:p>
+            <text:p text:style-name="P18">Stählin 1924<text:tab/>F.
+                Stählin, <text:span text:style-name="T35">Das
+                    Hellenische Thessalien: Landeskundliche und
+                    geschichtliche Beschreibung Thessaliens in der
+                    hellenischen und römischen Zeit,</text:span>
+                Amsterdam, 1924.</text:p>
+            <text:p text:style-name="P18">Stylow 1986<text:tab/>A.
+                Stylow, “Apuntes sobre epigrafía de época flavia en
+                Hispania,” <text:span text:style-name="T35"
+                    >Gerión</text:span> 4 (1986) 285-311.</text:p>
+            <text:p text:style-name="P18">Szemler 1989<text:tab/>G.
+                Szemler et al., “The Donation of M. Acilius Glabrio,
+                cos. 191: A Re-interpretation,” <text:span
+                    text:style-name="T35">AHB</text:span> 3 (1989)
+                68-77.</text:p>
+            <text:p text:style-name="P18">Tačeva 1992<text:tab/>M.
+                Tačeva, “Phylarchoi und Phylai in der Provinz
+                Thracia,” <text:span text:style-name="T35"
+                    >Index</text:span> 20 (1992) 179-187.</text:p>
+            <text:p text:style-name="P18">Talbert 1984<text:tab/>R.
+                Talbert, <text:span text:style-name="T35">The Senate
+                    of Imperial Rome,</text:span> Princeton,
+                1984.</text:p>
+            <text:p text:style-name="P18">Thomas 1976<text:tab/>J.
+                Thomas, <text:span text:style-name="T35">Textbook of
+                    Roman Law,</text:span> Amsterdam, 1976.</text:p>
+            <text:p text:style-name="P18">Thomasson 1984<text:tab/>B.
+                Thomasson, <text:span text:style-name="T35">Laterculi
+                    Praesidum,</text:span> 3 vols., Göteborg,
+                1984-1990.</text:p>
+            <text:p text:style-name="P18">Thomasson 1991<text:tab/>B.
+                Thomasson, <text:span text:style-name="T35">Legatus:
+                    Beiträge zur römischen
+                    Verwaltungsgeschichte,</text:span> AIRRS 18,
+                Stockholm, 1991.</text:p>
+            <text:p text:style-name="P18">Thomasson
+                1996<text:tab/>B.E. Thomasson, <text:span
+                    text:style-name="T35">Fasti africani: senatorische
+                    und ritterliche Amtsträger in den römischen
+                    Provinzen Nordafrikas von Augustus bis
+                    Diokletian,</text:span> SkrSvenInst 53, Stockholm,
+                1996.</text:p>
+            <text:p text:style-name="P18">Trousset 1976<text:tab/>P.
+                Trousset, “Reconnaisances archéologiques sur la
+                frontière saharience de l’Empire romain dans le
+                sud-ouest de la Tunisie” <text:s/>in <text:span
+                    text:style-name="T35">Lille d’archéologie
+                    1976</text:span> pp. 21-33.</text:p>
+            <text:p text:style-name="P18">Trousset 1978<text:tab/>P.
+                Trousset, “Les bornes du Bled Segui. Nouveaux aperçus
+                sur la centuriation romaine du sud Tunisie,”
+                    <text:span text:style-name="T35">AntAf</text:span>
+                12 (1978) 125-178.</text:p>
+            <text:p text:style-name="P18">Trousset 1997<text:tab/>P.
+                Trousset, “Un nouveau document sur la limitatio de C.
+                Vibius Marsus (Sud Tunisien)” <text:s/>in <text:span
+                    text:style-name="T35">Roman Frontier Studies
+                    1995</text:span> pp. 3-11.</text:p>
+            <text:p text:style-name="P18">Vallat 1979<text:tab/>J.
+                Vallat, “Le vocabulaire des attributions de terres en
+                Campanie: analyse spatiale et temporelle,” <text:span
+                    text:style-name="T35">MEFRA</text:span> 91.2
+                (1979) 977-1013.</text:p>
+            <text:p text:style-name="P18">Vaquerizo Gil
+                1986<text:tab/>D. Vaquerizo Gil, “Epigrafía romana
+                inédita de la llamada ‘Siberia Extremeña’,” <text:span
+                    text:style-name="T35">RevEsExtr</text:span> 42
+                (1986) 115-137.</text:p>
+            <text:p text:style-name="P18">Velkov 1970<text:tab/>V.
+                Velkov, “Epigraphische Beiträge zur historischen
+                Geographie der Moesia Inferior,” <text:span
+                    text:style-name="T35">Studia Balcanica</text:span>
+                1 (1970) 55-60.</text:p>
+            <text:p text:style-name="P18">Vine 1993<text:tab/>B. Vine,
+                “Review of Gager 1992,” <text:span
+                    text:style-name="T35">BMCR</text:span> 04.02.03
+                (1993) ; URL:
+                http://ccat.sas.upenn.edu/bmcr/1993/04.02.03.html.</text:p>
+            <text:p text:style-name="P18">Vulpe 1968<text:tab/>R.
+                Vulpe and I. Barnea, <text:span text:style-name="T35"
+                    >Romanii la Dunărea de Jos,</text:span> Bucarest,
+                1968.</text:p>
+            <text:p text:style-name="P18">Wace 1911<text:tab/>A. Wace
+                and M. Thompson, “A Latin Inscription from
+                Perrhaebia,” <text:span text:style-name="T35"
+                    >BSA</text:span> 17 (1910/1911) 193-204.</text:p>
+            <text:p text:style-name="P18">Whittaker 1978<text:tab/>C.
+                Whittaker, “Land and Labour in North Africa,”
+                    <text:span text:style-name="T35">Klio</text:span>
+                60 (1978) 331-362.</text:p>
+            <text:p text:style-name="P18">Wilkes 1967<text:tab/>J.
+                Wilkes, “A New Governor of Dalmatia,” <text:span
+                    text:style-name="T35">Epigraphische
+                    Studien</text:span> 4 (1967) 119-121.</text:p>
+            <text:p text:style-name="P18">Wilkes 1974<text:tab/>J.
+                Wilkes, “Boundary Stones in Roman Dalmatia,”
+                    <text:span text:style-name="T35"
+                    >ArhVest</text:span> 25 (1974) 258-274.</text:p>
+            <text:p text:style-name="P18">Woodward 1913<text:tab/>A.
+                Woodward, “Inscriptions from Thessaly and Macedonia,”
+                    <text:span text:style-name="T35">JHS</text:span>
+                33 (1913) 313-346.</text:p>
+        </office:text>
+    </office:body>
+</office:document-content>

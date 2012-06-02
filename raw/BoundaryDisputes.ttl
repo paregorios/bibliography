@@ -1,0 +1,633 @@
+# headings found:  2 ['shortTitle', 'shortDescription']
+# Schema
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix : <http://purl.org/ontology/bibo/>.
+  :shortTitle  a rdf:Property; rdfs:label "shortTitle".
+  :shortDescription  a rdf:Property; rdfs:label "shortDescription".
+
+<#n1>
+    :shortTitle "Ager 1989"; 
+    :shortDescription "S. Ager, “Judicial Imperialism: the Case of Melitaia,” AHB 3.5 (1989) 107-114.".
+<#n2>
+    :shortTitle "Ager 1996"; 
+    :shortDescription "S. Ager, Interstate arbitrations in the Greek world, 337-90 B.C., Berkeley, 1996.".
+<#n3>
+    :shortTitle "Aichinger 1982"; 
+    :shortDescription "A. Aichinger, “Grenzziehung durch kaiserliche Sonderbeauftragte in den römischen provinzen,” ZPE 48 (1982) 193-204.".
+<#n4>
+    :shortTitle "Alarcáo 1976"; 
+    :shortDescription "J. Alarcáo and R. Etienne, “La Portugal à l’époque augustéenne”  in Ciudades augusteas 1 pp. 171-187.".
+<#n5>
+    :shortTitle "Alföldy 1969"; 
+    :shortDescription "G. Alföldy, Fasti Hispanienses: Senatorische Reichsbeamte und Offiziere in den Spanischen Provinzen des Römischen Reiches von Augustus bis Diokletian, Wiesbaden, 1969.".
+<#n6>
+    :shortTitle "Alföldy 1991"; 
+    :shortDescription "G. Alföldy, “Epigraphische Notizen aus Kleinasien I: Ein Beneficium des Augustus in Ephesos,” ZPE 87 (1991) 157-162 with Pl. IV.".
+<#n7>
+    :shortTitle "Alí 1996"; 
+    :shortDescription "F. Alí, “Targunia dal periodo greco fino alla fine dell’età fatimita”  in Bacchielli 1996 1 pp. 127-134.".
+<#n8>
+    :shortTitle "Ali Mohamed 1994"; 
+    :shortDescription "F. Ali Mohamed and R. Reynolds, “Inscriptions Recently Discovered in Cyrenaica”  in Africa romana 11 3 pp. 1323-1327.".
+<#n9>
+    :shortTitle "Bacchielli 1996"; 
+    :shortDescription "L. Bacchielli et al (eds.), Scritti di Antichità in memoria di Sandro Stucchi, Studi Miscellanei 29, Rome, 1996.".
+<#n10>
+    :shortTitle "Baldwin Bowsky 1987"; 
+    :shortDescription "M. Bowsky, “Roman arbitration in central Crete: an Augustan proconsul and a Neronian procurator,” CJ 82 (1986/87) 218-229.".
+<#n11>
+    :shortTitle "Bammer 1974"; 
+    :shortDescription "A. Bammer et al., Führer durch das Archäologische Museum in Selçuk-Ephesos, Vienna, 1974.".
+<#n12>
+    :shortTitle "Banev 1981"; 
+    :shortDescription "Kr. Banev and R. Lazov, “Inscriptions latines de la Mésie Inférieure et de la Thrace,” Arch (Sofia) 23 (1981) 37-45.".
+<#n13>
+    :shortTitle "Bean 1959"; 
+    :shortDescription "G.E. Bean, “Notes and inscriptions from Pisidia. Part 1,” AS 9 (1959) 67-117.".
+<#n14>
+    :shortTitle "Bénabou 1976"; 
+    :shortDescription "M. Bénabou, La résistance africaine à la romanisation, Paris, 1976.".
+<#n15>
+    :shortTitle "Bénabou 1986"; 
+    :shortDescription "H. Bénabou, “L’Afrique”  in Crawford 1986 pp. 127-141.".
+<#n16>
+    :shortTitle "Bennett 1997"; 
+    :shortDescription "J. Bennett, Trajan, optimus princeps : a life and times, Bloomington, 1997.".
+<#n17>
+    :shortTitle "Benzina ben Abdallah 1992"; 
+    :shortDescription "Z. Benzina ben Abdallah, “Du côte d’Ammaedra: Musulamii et Musunii Regiani,” AntAf 28 (1992) 139-145.".
+<#n18>
+    :shortTitle "Beschaouch 1968"; 
+    :shortDescription "A. Beschaouch, “Mustitana: Recueil des nouvelles inscriptions de Mustis, cité romaine de Tunisie,” Karthago 14 (1965/1966) 121-224.".
+<#n19>
+    :shortTitle "Betz 1938"; 
+    :shortDescription "A. Betz, Untersuchungen zur Militärgeschichte der römischen Provinz Dalmatien, Abhandlungen des archäologisch-epigraphischen Seminars der Universität Wien new series, heft 4, Baden bei Wien, 1938.".
+<#n20>
+    :shortTitle "Binder 1987"; 
+    :shortDescription "G. Binder (ed.), Saeculum Augustum I: Herrschaft und Gesellschaft, Darmstadt, 1987.".
+<#n21>
+    :shortTitle "Birley 1997"; 
+    :shortDescription "A. Birley, Hadrian: The Restless Emperor, London, 1997.".
+<#n22>
+    :shortTitle "Birley 2000"; 
+    :shortDescription "A. Birley, Marcus Aurelius: A Biography, New York, 2000.".
+<#n23>
+    :shortTitle "Birley 2002"; 
+    :shortDescription "A. Birley, The Prosopography of Roman Imperial Government: Fasti Provinciarum, Barcelona, 2002; URL: http://www.ub.es/epigraphiae/PDF/Preograma%20EPI%20DEFINITIU.pdf.".
+<#n24>
+    :shortTitle "Boatwright 2000"; 
+    :shortDescription "M.T. Boatwright, Hadrian and the Cities of the Roman Empire, Princeton, 2000.".
+<#n25>
+    :shortTitle "Borzsák 1986"; 
+    :shortDescription "I. Borzsák and K. Wellesley (eds.), Cornelii Taciti libri qui supersunt, Leipzig, 1986-1992.".
+<#n26>
+    :shortTitle "Bosch 1967"; 
+    :shortDescription "E. Bosch, Quellen zur Geschichte der Stadt Ankara im Altertum, Ankara, 1967.".
+<#n27>
+    :shortTitle "Bouchenaki 1977"; 
+    :shortDescription "M. Bouchenaki and P. Février, “Un ‘castellum’ de la region de Tipasa de Juba a Septime Severe,” BAA 7 (1977-1979) 193-215.".
+<#n28>
+    :shortTitle "Bowersock 1991"; 
+    :shortDescription "G. Bowersock, “Review of MAMA 9,” JRS 81 (1991) 223-225.".
+<#n29>
+    :shortTitle "Bowman 1996"; 
+    :shortDescription "A. Bowman, “Provincial Administration and Taxation”  in CAH2 10 pp. 344-370.".
+<#n30>
+    :shortTitle "Božilova 1985"; 
+    :shortDescription "V. Božilova and J. Kolendo, “Гранчен стълб от 136 гнамерен в Нове,” Arch (Sofia) 27 (1985) 39-46.".
+<#n31>
+    :shortTitle "Brice 2002"; 
+    :shortDescription "L. Brice, Holding a Wolf by the Ears: Mutiny and Unrest in the Roman Military, 44 B.C.-AD 68, Ph.D. Dissertation, Chapel Hill, 2002.".
+<#n32>
+    :shortTitle "Bringmann 1995"; 
+    :shortDescription "K. Bringmann and H. von Steuben, Schenkungen hellenistischer Herrscher an griechische Städte und Heiligtümer, 2 vols., Berlin, 1995.".
+<#n33>
+    :shortTitle "Bruneau 1975"; 
+    :shortDescription "P. Bruneau, “Deliaca (II),” BCH 99 (1975) 267-311.".
+<#n34>
+    :shortTitle "Buraselis 1993"; 
+    :shortDescription "K. Buraselis, “Bemerkungen zum Dekret der Battynäer”  in Ancient Macedonia V 1 pp. 280-292.".
+<#n35>
+    :shortTitle "Burton 1993"; 
+    :shortDescription "G.P. Burton, “Provincial Procurators and the Public Provinces,” Chiron 23 (1993) 13-28.".
+<#n36>
+    :shortTitle "Burton 2000"; 
+    :shortDescription "G.P. Burton, “The Resolution of Territorial Disputes in the Provinces of the Roman Empire,” Chiron 30 (2000) 195-215.".
+<#n37>
+    :shortTitle "Burton 2002"; 
+    :shortDescription "G. Burton, “The Regulation of Inter-community Relations in the Provinces and the Political Integration of the Roman Empire”  in Gorman 2002 pp. 113-128.".
+<#n38>
+    :shortTitle "Burton 2002b"; 
+    :shortDescription "G. Burton, “The Roman Imperial State (A.D. 14-235): Evidence and Reality,” Chiron 32 (2002) 249-280.".
+<#n39>
+    :shortTitle "Cadoni 1993"; 
+    :shortDescription "E. Cadoni, “La Tabula bronzea di Esterzili (CIL X, 7852 = ILS 5947)”  in Mastino 1993 pp. 77-98.".
+<#n40>
+    :shortTitle "Cagnat 1894"; 
+    :shortDescription "R. Cagnat, “Note sur les limites de la Province romaine d’Afrique en 146,” CRAI (1894) 43.".
+<#n41>
+    :shortTitle "Cagnat 1903"; 
+    :shortDescription "R. Cagnat, “Sabinius non Licinius Barbarus”  in Mélanges Boissier pp. 99-102.".
+<#n42>
+    :shortTitle "Cagnat 1909"; 
+    :shortDescription "R. Cagnat, “Les Νυβγηνοί de Ptolémée,” CRAI (1909) 568-579.".
+<#n43>
+    :shortTitle "Camodeca 1993"; 
+    :shortDescription "G. Camodeca, “Per una riedizione delle ‘Tabulae Herculanenses’ 2”  in Ostraka 2.2 pp. 197-209.".
+<#n44>
+    :shortTitle "Camodeca 1994"; 
+    :shortDescription "G. Camodeca, “Riedizione del trittico ercolanese TH 77 + 78 + 80 + 53 + 92 del 26 gennaio 69,” BCPE 24 (1994) 137-146.".
+<#n45>
+    :shortTitle "Camodeca 1996"; 
+    :shortDescription "G. Camodeca, “Una nuova coppia di consoli del 148 e il proconsul Achaiae M. Calpurnius Longus,” ZPE 112 (1996) 235-240.".
+<#n46>
+    :shortTitle "Campbell 1996"; 
+    :shortDescription "B. Campbell, “Shaping the Rural Environment: Surveyors in Ancient Rome,” JRS 86 (1996) 74-99.".
+<#n47>
+    :shortTitle "Campbell 2000"; 
+    :shortDescription "B. Campbell, The Writings of the Roman Land Surveyors: Introduction, Text, Translation and Commentary, JRS Monograph 9, London, 2000.".
+<#n48>
+    :shortTitle "Carlsen 1994"; 
+    :shortDescription "J. Carlsen et al (eds.), Landuse in the Roman Empire, Rome, 1994.".
+<#n49>
+    :shortTitle "Carlsen 1994a"; 
+    :shortDescription "J. Carlsen, “CIL X 8217 and the Question of Temple Land in Roman Italy”  in Carlsen 1994 pp. 9-15.".
+<#n50>
+    :shortTitle "Carlsen 1995"; 
+    :shortDescription "J. Carlsen, Vilici and Roman Estate Managers Until AD 284, Rome, 1995.".
+<#n51>
+    :shortTitle "Carton 1895"; 
+    :shortDescription "L. Carton, Découvertes épigraphiques et archéologiques faites en Tunisie (région de Dougga), Mémoires Lille 5.4, Lille, 1895.".
+<#n52>
+    :shortTitle "Casevitz 1993"; 
+    :shortDescription "M. Casevitz, “Les mots de la frontière en grec”  in Roman 1993 pp. 17-24.".
+<#n53>
+    :shortTitle "Champlin 1978"; 
+    :shortDescription "E. Champlin, “Pegasus,” ZPE 32 (1978), 269-278.".
+<#n54>
+    :shortTitle "Chelotti 1985"; 
+    :shortDescription "M. Chelotti et al, Le epigrafi romane di Canosa, Bari, 1985.".
+<#n55>
+    :shortTitle "Chrimes 1949"; 
+    :shortDescription "K. Chrimes, Ancient Sparta, a re-examination of the evidence, Manchester, 1949.".
+<#n56>
+    :shortTitle "Christofle 1935"; 
+    :shortDescription "M. Christofle, Rapport sur le fouilles effectuées en 1930-1931-1932 par le service des monuments historiques de l’Algérie, Algiers, 1935.".
+<#n57>
+    :shortTitle "Christol 1982"; 
+    :shortDescription "M. Christol and T Drew-Bear, “Une délimitation de territoire en Phrygie-Carie,” TRTurquie 1982, 21-42.".
+<#n58>
+    :shortTitle "Christol 1998"; 
+    :shortDescription "M. Christol and Th. Drew-Bear, “Le prince et ses représentants aux limites de l’Asie et de la Galatie: un nouveau questeur et un nouveau proconsul d’Asie sous Septime Sévère,” CahiersGlotz 9 (1998) 143-164.".
+<#n59>
+    :shortTitle "Contencin 1934"; 
+    :shortDescription "A. Contencin, “Note sur une borne de la Fossa Regia,” BCTH (1934/5) 390.".
+<#n60>
+    :shortTitle "Crawford 1986"; 
+    :shortDescription "M. Crawford (ed.), L’Impero romano e le strutture economiche e sociali delle province, Como, 1986.".
+<#n61>
+    :shortTitle "Crook 1967"; 
+    :shortDescription "J. Crook, Law and Life of Rome, Ithaca, NY, 1967.".
+<#n62>
+    :shortTitle "Daux 1976"; 
+    :shortDescription "G. Daux, “L’Amphictyonie delphique sous l’Empire” in Recueil Plassart pp. 59-79.".
+<#n63>
+    :shortTitle "De Franciscis 1956"; 
+    :shortDescription "A. de Franciscis, “Templum Dianae Tifatinae,” ASTL 1 (1956) 301-358.".
+<#n64>
+    :shortTitle "De Franciscis 1966"; 
+    :shortDescription "A. De Franciscis, “Note sui ‘Praedia Dianae Tifatinae’,” RAALN 41 (1966) 241-246.".
+<#n65>
+    :shortTitle "Desanges 1962"; 
+    :shortDescription "J. Desanges, Catalogue des tribus Africaines de l’antiquité classique a l’ouest du Nil, Dakar, 1962.".
+<#n66>
+    :shortTitle "Desanges 1983"; 
+    :shortDescription "J. Desanges and S. Lancel, “L’apport des nouvelles Lettres à la géographie historique de l’Afrique antique et de l’Église d’Afrique”  in Lettres de Saint Augustin découvertes pp. 87-99.".
+<#n67>
+    :shortTitle "Desanges 1994"; 
+    :shortDescription "J. Desanges, “Auguste a-t-il confirmé une décision de Juba II dans l’administration interne du royaume protégé de Maurétanie?,” BCTH 23 (1990-1992) 218-220.".
+<#n68>
+    :shortTitle "Devijver 1976"; 
+    :shortDescription "H. Devijver, Prosopographia militiarum equestrium quae fuerunt ab Augusto ad Gallienum, 3 vols., Leuven, 1976-1980.".
+<#n69>
+    :shortTitle "Di Vita-Evrard 1979"; 
+    :shortDescription "G. di Vita-Evrard, “Quatre inscriptions du Djebel Tarhuna: le territoire de Lepcis Magna,” QAL 10 (1979) 67-98 and map.".
+<#n70>
+    :shortTitle "Dignas 2002"; 
+    :shortDescription "B. Dignas, Economy of the sacred in Hellenistic and Roman Asia Minor, New York, 2002.".
+<#n71>
+    :shortTitle "Dindorf 1868"; 
+    :shortDescription "L. Dindorf (ed.), Ioannis Zonarae Epitome Historiarum, 6 vols., Leipzig, 1868-1875.".
+<#n72>
+    :shortTitle "Doblhofer 1960"; 
+    :shortDescription "E. Doblhofer, “Eine Grenzregelung in Kilikien,” JÖAI 45 (1960) Hauptblatt 39-44.".
+<#n73>
+    :shortTitle "Dobson 1978"; 
+    :shortDescription "B. Dobson, Die Primipilares: Entwicklung und Bedeutung, Laufbahnen und Persönlichkeiten eines römischen Offiziersranges, Cologne, 1978.".
+<#n74>
+    :shortTitle "Doukellis 1995"; 
+    :shortDescription "P. Doukellis and S. Zoumbaki, “De Flamininus aux Antonins: Conquête et aménagements de l’espace extra-urbain en Achaïe et Macédoine,” DHA 21.2 (1995) 205-228.".
+<#n75>
+    :shortTitle "Ducrey 1969"; 
+    :shortDescription "P. Ducrey, “Trois nouvelles inscriptions crétoises,” BCH 93 (1969) 841-852.".
+<#n76>
+    :shortTitle "Eck 1999"; 
+    :shortDescription "W. Eck (ed.), Lokale Autonomie und römische Ordnungsmacht in den kaiserzeitlichen Provinzen vom 1. bis 3. Jahrhundert, Munich, 1999.".
+<#n77>
+    :shortTitle "Ehrenberg 1955"; 
+    :shortDescription "V. Ehrenberg and A. Jones (eds.), Documents Illustrating the Reigns of Augustus and Tiberius, Oxford, 1955.".
+<#n78>
+    :shortTitle "Elliott 1997"; 
+    :shortDescription "T. Elliott, Diocletianic Census Inscriptions from the Aegean Islands and Asia Minor, M.A. Thesis, Chapel Hill, 1997.".
+<#n79>
+    :shortTitle "Engelmann 1993"; 
+    :shortDescription "H. Engelmann, “Zum Kaiserkult in Ephesos,” ZPE 97 (1993) 279-289.".
+<#n80>
+    :shortTitle "Engelmann 1998"; 
+    :shortDescription "H. Engelmann, “Ephesiaca,” ZPE 121 (1998) 305-311.".
+<#n81>
+    :shortTitle "Engelmann 1999"; 
+    :shortDescription "H. Engelmann, “Inschriften aus Metropolis,” ZPE 125 (1999) 137-146.".
+<#n82>
+    :shortTitle "Faraone 1991"; 
+    :shortDescription "C. Faraone and D. Obbink, eds., Magika Hiera: Ancient Greek Magic and Religion, New York, 1991.".
+<#n83>
+    :shortTitle "Faraone 1991a"; 
+    :shortDescription "C. Faraone, “The Agonistic Context of Early Greek Binding Spells”  in Faraone 1991 pp. 3-32.".
+<#n84>
+    :shortTitle "Fentress 1979"; 
+    :shortDescription "E. Fentress, Numidia and the Roman Army: Social, Military and Economic Aspects of the Frontier Zone, BAR International Series 53, Oxford, 1979.".
+<#n85>
+    :shortTitle "Fitz 1966"; 
+    :shortDescription "J. Fitz, Die Laufbahn der Statthalter in der römischen Provinz Moesia Inferior, Weimar, 1966.".
+<#n86>
+    :shortTitle "Fossey 1981"; 
+    :shortDescription "J. Fossey, “The City Archive at Koroneia,” Euphrosyne 11 (1981/82) 44-59.".
+<#n87>
+    :shortTitle "Franklin 2001"; 
+    :shortDescription "J. Franklin, Pompeis difficile est: studies in the political life of imperial Pompeii, Ann Arbor, 2001.".
+<#n88>
+    :shortTitle "French 1991"; 
+    :shortDescription "D. French, “Sites and Inscriptions from Phrygia, Pisidia and Pamphylia,” EA 17 (1981) 51-68.".
+<#n89>
+    :shortTitle "French 1997"; 
+    :shortDescription "D.H. French, “Inscriptions in the Museums of Akşehir and Yalvaç,” EA 29 (1997) 60-64.".
+<#n90>
+    :shortTitle "Frézouls 1981"; 
+    :shortDescription "E. Frézouls, “A propos de la Tabula Clesiana,” Ktema 6 (1981) 239-252.".
+<#n91>
+    :shortTitle "Gager 1992"; 
+    :shortDescription "J. Gager, Curse Tablets and Binding Spells from the Ancient World, Oxford, 1992.".
+<#n92>
+    :shortTitle "Garcia Rozas 1993"; 
+    :shortDescription "R. Garcia Rozas and J. Abasolo, “Bronces Romanos del Museo de Zamora,” in Bronces y Religion Romana pp. 170-196.".
+<#n93>
+    :shortTitle "Gascou 1983"; 
+    :shortDescription "J. Gascou, “Pagus et castellum dans la confédération cirtéenne,” AntAf 19 (1983) 175-207.".
+<#n94>
+    :shortTitle "Gascou 1989"; 
+    :shortDescription "J. Gascou and R. Guéry, “Inscriptions du sud Constantinois,” AntAf 25 (1989) 135-176.".
+<#n95>
+    :shortTitle "Gasperini 1992"; 
+    :shortDescription "L. Gasperini (ed.), Rupes Loquentes: Atti del Convegno internazionale di studio sulle iscrizioni rupestri de età Romana in Italia, Roma - Bomarzo 13-15. X. 1989, Tivoli, 1992.".
+<#n96>
+    :shortTitle "Gasperini 1992a"; 
+    :shortDescription "L. Gasperini, “Il Macigno dei Balari ai Piedi del Monte Limbara (Sardegna Nord-Orientale)”  in Gasperini 1992 pp. 579-589.".
+<#n97>
+    :shortTitle "Gorman 2002"; 
+    :shortDescription "V. Gorman and E. Robinson, Oikistes: Studies in Constitutions, Colonies, and Military Power in the Ancient World. Offered in Honor of A.J. Graham, Mnemosyne Suppl. 234, Leiden, 2002.".
+<#n98>
+    :shortTitle "Gschnitzer 1994"; 
+    :shortDescription "F. Gschnitzer, “Zur Terminologie der Grenze und des Gebietes im Griechischen”  in Sonnabend 1994 pp. 25-33.".
+<#n99>
+    :shortTitle "Guénin 1908"; 
+    :shortDescription "M. Le Commandant Guénin, “Inventaire archéologique du cercle de Tébessa,” NouvArch 17 (1908) 75-234.".
+<#n100>
+    :shortTitle "Haensch 1999"; 
+    :shortDescription "R. Haensch, “Heraclea ad Salbacum, die heiligen Dörfer der Artemis Sbryallis und der Kaiser”  in Eck 1999 pp. 115-139.".
+<#n101>
+    :shortTitle "Hatzopoulos 1989"; 
+    :shortDescription "M. Hatzopoulos and L. Loukopoulou, Morrylos, cité de la Crestonie, Athens, 1989.".
+<#n102>
+    :shortTitle "Henzen 1856"; 
+    :shortDescription "G. Henzen, “Iscrizione di Lamia,” Bullettino dell’ Instituto (1856) 72-76.".
+<#n103>
+    :shortTitle "Hitchner 1994"; 
+    :shortDescription "R. Hitchner, “Image and Reality: The Changing Face of Pastoralism in the Tunisian High Steppe”  in Carlsen 1994 pp. 27-43.".
+<#n104>
+    :shortTitle "Horsley 1998"; 
+    :shortDescription "G.H.R. Horsley and R.A. Kearsley, “Another Boundary Stone between Tymbrianassos and Sagalassos in Pisidia,” ZPE 121 (1998) 123-129.".
+<#n105>
+    :shortTitle "Içten 1998"; 
+    :shortDescription "Ç. Içten and H. Engelmann, “Inschriften aus Ephesos und Kolophon,” ZPE 120 (1998) 83-91.".
+<#n106>
+    :shortTitle "Jacques 1987"; 
+    :shortDescription "F. Jacques, “Biens caducs revendiques par la cite d’Ostie. Attribution et delimitation d’un Terrain d’apres une nouvelle inscription du Latium,” Epigraphica 49 (1987) 29-70.".
+<#n107>
+    :shortTitle "Jiménez de Furundarena 1999"; 
+    :shortDescription "A. Jiménez de Furundarena, “La Carrera de Titus Suedius Clemens,” HAnt 23 (1999) 167-172.".
+<#n108>
+    :shortTitle "Jones 1992"; 
+    :shortDescription "C. Jones, “Review of: James H. Oliver, Greek Constitutions of Early Roman Emperors from Inscriptions and Papyri,” AJP 113 (1992) 144-147.".
+<#n109>
+    :shortTitle "Kazarow 1923"; 
+    :shortDescription "G. Kazarow, “Inscriptions et antiquités de la Macédoine occidentale (Régions de Mariovo et de Prilep),” BCH 47 (1923) 275-300.".
+<#n110>
+    :shortTitle "Kehoe 1988"; 
+    :shortDescription "D. Kehoe, The Economics of Agriculture on Roman Imperial Estates in North Africa, Hypomnemata 89, Göttingen, 1988.".
+<#n111>
+    :shortTitle "Khanoussi 1992"; 
+    :shortDescription "M. Khanoussi, “Présence et rôle de l’armée romaine dans la région des Grandes Plaines (Afrique Proconsulaire)”  in Africa romana 9 pp. 319-328.".
+<#n112>
+    :shortTitle "Kierdorf 1987"; 
+    :shortDescription "W. Kierdorf, “Freundschaft und Freundschaftskündigung von der Republik zum Prinzipat”  in Binder 1987 pp. 223-245.".
+<#n113>
+    :shortTitle "Knibbe 1979"; 
+    :shortDescription "D. Knibbe et al., “Der Grundbesitz der ephesischen Artemis im Kaystrostal,” ZPE 33 (1979) 139-147.".
+<#n114>
+    :shortTitle "Knibbe 1989"; 
+    :shortDescription "J. Knibbe et al, “Neue Inschriften aus Ephesos XI,” JÖAI 59 Beiblatt (1989) 161-238.".
+<#n115>
+    :shortTitle "Krummrey 1980"; 
+    :shortDescription "H. Krummrey and S. Panciera, “Criteri di edizione e segni diacritici,” Tituli 2 (1980), 205-215.".
+<#n116>
+    :shortTitle "Laffi 1971"; 
+    :shortDescription "U. Laffi, “I terreni del tempio di Zeus ad Aizanoi: Le iscrizioni sulla parete interna dell’anta destra del pronaos,” Athenaeum 49 (1971) 3-53.".
+<#n117>
+    :shortTitle "Lamboglia 1959"; 
+    :shortDescription "N. Lamboglia, “Una nuova popolazione Pirenaica: Gli Olossitani,” RSL 25 (1959) 147-161.".
+<#n118>
+    :shortTitle "Lassus 1960"; 
+    :shortDescription "J. Lassus, “L’archéologie algérienne en 1959,” Libyca 8 (1960) 1-109.".
+<#n119>
+    :shortTitle "Le Bohec 1989"; 
+    :shortDescription "Y. Le Bohec, La Troisième Légion Auguste, Paris, 1989.".
+<#n120>
+    :shortTitle "Le Bohec 1990"; 
+    :shortDescription "Y. Le Bohec, “De Sila à Gadiaufala: urbanisation et municipalisation dans le Numidie cirtéenne méridionale”  in L’Afrique dans l’Occident romain pp. 291-313.".
+<#n121>
+    :shortTitle "Le Roux 1994"; 
+    :shortDescription "P. Le Roux, “Cités et territoires en Hispanie: L’épigraphie des limites,” MCV 30 (1994) 37-51.".
+<#n122>
+    :shortTitle "Leschi 1957"; 
+    :shortDescription "L. Leschi, Études d’épigraphie, d’archéologie et d’histoire africaines, Paris, 1957.".
+<#n123>
+    :shortTitle "Leschi 1957a"; 
+    :shortDescription "L. Leschi, “Une assignation de terre sous Septime Sévère”  in Leschi 1957 pp. 75-79.".
+<#n124>
+    :shortTitle "Logeart 1939"; 
+    :shortDescription "F. Logeart, “Bornes délimitatives dans le sud du territoire de Cirta,” RevAfr 83 (1939) 161-181.".
+<#n125>
+    :shortTitle "Lucas 1997"; 
+    :shortDescription "G. Lucas, Les cités antiques de la haute vallée du Titarèse et de géographie historique antique avec corpus des inscriptions, Lyon, 1997.".
+<#n126>
+    :shortTitle "MacKay 1965"; 
+    :shortDescription "P. MacKay, “A Macedonian Boundary Inscription of A.D. 114,” Hesperia 34 (1965) 248-251.".
+<#n127>
+    :shortTitle "Mason 1974"; 
+    :shortDescription "H. Mason, Greek Terms for Roman Institutions: A Lexicon and Analysis, American Studies in Papyrology 13, Toronto, 1974.".
+<#n128>
+    :shortTitle "Mastino 1993"; 
+    :shortDescription "A. Mastino, La Tavola di Esterzili: il conflitto tra pastori e contadini nella Barbaria sarda: convegno di studi, Esterzili, 13 giugno 1992, Sassari, 1993.".
+<#n129>
+    :shortTitle "Matthews 1984"; 
+    :shortDescription "J. Matthews, “The tax law of Palmyra. Evidence for economic history in a city of the Roman East,” JRS 74 (1984) 157-180.".
+<#n130>
+    :shortTitle "Mattingly 1994"; 
+    :shortDescription "D.J. Mattingly, Tripolitania, Ann Arbor, 1994.".
+<#n131>
+    :shortTitle "M’Charek 1999"; 
+    :shortDescription "A. M’Charek, “De Saint Augutin à Al-Bakri: sur la localisation de l’ager Bullensis dans l’Africa latino-chrétienne et de ‘Fahs Boll’ en Ifriqiya arabo-musulmane,” CRAI (1999) 115-142.".
+<#n132>
+    :shortTitle "Merryweather 2003"; 
+    :shortDescription "A. Merryweather and J. Prag, Romanization? Proceedings of a Post-graduate Colloquium, The Institute of Classical Studies, London, 15 November 2002, Digressus Supplement 1, London, 2003.".
+<#n133>
+    :shortTitle "Millar 1992"; 
+    :shortDescription "F. Millar, The Emperor in the Roman World (31 BC - AD 337), Ithaca, NY, 1992.".
+<#n134>
+    :shortTitle "Millar 1993"; 
+    :shortDescription "F. Millar, The Roman Near East: 31 BC - AD 337, Cambridge, MA, 1993.".
+<#n135>
+    :shortTitle "Mitchell 1976"; 
+    :shortDescription "S. Mitchell, “Requisitioned Transport in the Roman Empire: A New Inscription from Pisidia,” JRS 66 (1976) 106-131.".
+<#n136>
+    :shortTitle "Moatti 1993"; 
+    :shortDescription "C. Moatti, Archives et partage de la terre dans le monde Romain (IIe siècle avant - Ier siècle après J.-C.), CollEFR 173, Rome, 1993.".
+<#n137>
+    :shortTitle "Bakalakis 1937"; 
+    :shortDescription "G. Bakalakis, “Παρανεστιοι Ἀρχαιότητες,” Thrakika 8 (1937) 15-31.".
+<#n138>
+    :shortTitle "Naddari 2000"; 
+    :shortDescription "L. Naddari, “Une nouvelle borne des Musulames,” Africa 18 (2000) 43-51.".
+<#n139>
+    :shortTitle "Navarro 1999"; 
+    :shortDescription "F. Navarro, “P. Stertinius Quartus, Governatore di Numidia,” Epigraphica 61 (1999) 67-79.".
+<#n140>
+    :shortTitle "Oliver 1965"; 
+    :shortDescription "J. Oliver, “Texts A and B of the Horothesia Dossier at Istros,” GRBS 6 (1965) 143-156.".
+<#n141>
+    :shortTitle "Oliver 1989"; 
+    :shortDescription "J. Oliver, Greek Constitutions of Early Roman Emperors from Inscriptions and Papyri, MemoirsAPS 178, Philadelphia, 1989.".
+<#n142>
+    :shortTitle "Ors 1953"; 
+    :shortDescription "Alvaro D’Ors, Epigrafía Jurídica de la España Romana, Madrid, 1953.".
+<#n143>
+    :shortTitle "Papazoglou 1979"; 
+    :shortDescription "F. Papazoglou, “Gouverneurs de Macédoine: a propos du second volume des Fasti, par Th. Sarikakis,” ZAnt 29 (1979) 237-249.".
+<#n144>
+    :shortTitle "Parvan 1915"; 
+    :shortDescription "V. Parvan, “Fouilles d’Ulmetum (Roumanie), 1911-1914,” AA (1915) 236-247.".
+<#n145>
+    :shortTitle "Patchère 1911"; 
+    :shortDescription "F. de Patchère, “Excursion archéologique dans la région du Fahs et de Téboursouk,” BCTH (1911) 402-403.".
+<#n146>
+    :shortTitle "Petsa 1996"; 
+    :shortDescription "Ph. Petsa, “Χρονικὰ Ἀρχαιολογικά,” Makedonika 7 (1966/7) 287-368.".
+<#n147>
+    :shortTitle "Pflaum 1960"; 
+    :shortDescription "H.-G. Pflaum, Les Carrières procuratoriennes équestres sous le haut-empire Romain, 4 vols., Paris, 1960-1961.".
+<#n148>
+    :shortTitle "Piccirilli 1973"; 
+    :shortDescription "F. Piccirilli, Gli Arbitrati Interstatali Greci, Pisa, 1973.".
+<#n149>
+    :shortTitle "Piganiol 1962"; 
+    :shortDescription "A. Piganiol, Les documents cadastraux de la colonie romaine d’Orange, Paris, 1962.".
+<#n150>
+    :shortTitle "Pikoulas 1998"; 
+    :shortDescription "G. Pikoulas, “Τερμονισμοὶ Πελοποννήσου”  in Horos 10-12 pp. 313-325.".
+<#n151>
+    :shortTitle "Pikoulas 1999"; 
+    :shortDescription "G. Pikoulas, “Τερμονισμοί Μακεδονίας: πρώτη συμβολή”  in Ancient Macedonia VI 2 pp. 893-902.".
+<#n152>
+    :shortTitle "Pilhofer 1995"; 
+    :shortDescription "P. Pilhofer, Philippi, 2 vols., Tübingen, 1995-2000.".
+<#n153>
+    :shortTitle "Plana 1995"; 
+    :shortDescription "R. Plana and M. José Pena, “Ampurias: cuestiones agrarias y jurídicas de finales de la república,” StudHist 13/14 (1995/1996) 89-104.".
+<#n154>
+    :shortTitle "Poinssot 1920"; 
+    :shortDescription "L. Poinssot, “Deux Inscriptions d’Aunobari,” CRAI (1920) 140-146.".
+<#n155>
+    :shortTitle "Poinssot 1938"; 
+    :shortDescription "L. Poinssot, “Une borne inédite de la Fossa Regia,” BCTH (1938/40) 203-204.".
+<#n156>
+    :shortTitle "Pratilli 1745"; 
+    :shortDescription "F. Pratilli, Della Via Appia riconosciuta e descritta da Roma a Brindisi, Naples, 1745.".
+<#n157>
+    :shortTitle "Pugliese Carratelli 1961"; 
+    :shortDescription "G. Pugliese Carratelli, “Supplemento epigrafico cirenaico,” AnnScAA 39-40 (1961-1962) 219-375.".
+<#n158>
+    :shortTitle "Quinn 2003"; 
+    :shortDescription "J. Quinn, “Roman Africa?”  in Merryweather 2003 pp. 7-34.".
+<#n159>
+    :shortTitle "Ramsay 1886"; 
+    :shortDescription "W.M. Ramsay, “Notes and Inscriptions from Asia Minor,” AJA (series 1) 2 (1886) 128-131.".
+<#n160>
+    :shortTitle "Ramsay 1895"; 
+    :shortDescription "W.M. Ramsay, The Cities and Bishoprics of Phrygia, 2 vols., Oxford, 1895.".
+<#n161>
+    :shortTitle "Ramsay 1941"; 
+    :shortDescription "W.M. Ramsay, The Social Basis of Roman Power in Asia Minor, Aberdeen, 1941.".
+<#n162>
+    :shortTitle "Reynolds 1965"; 
+    :shortDescription "J. Reynolds and R. Goodchild, “The city lands of Apollonia in Cyrenaica,” LA 2 (1965) 103-107.".
+<#n163>
+    :shortTitle "Reynolds 1971"; 
+    :shortDescription "J. Reynolds, “New Boundary stones from the public land of the Roman People in Cyrenaica,” LA 8 (1971) 47-51.".
+<#n164>
+    :shortTitle "Rigsby 1976"; 
+    :shortDescription "K. Rigsby, “Cnossus and Capua”  in TAPA 106 pp. 313-330.".
+<#n165>
+    :shortTitle "Rigsby 1996"; 
+    :shortDescription "K. Rigsby, Asylia: Territorial Inviolability in the Hellenistic World, Berkeley, 1996.".
+<#n166>
+    :shortTitle "Rizakis 1985"; 
+    :shortDescription "Th. Rizakis and G. Tourasoglou, Ἐπιγραφὲς ἄνω Μακεδονίας (Ἐλίμεια, Ἐορδαία, Νότια Λυγκηστίς, Ὀρεστίς), Athens, 1985.".
+<#n167>
+    :shortTitle "Robert 1938"; 
+    :shortDescription "L. Robert, Études épigraphiques et philologiques, Paris, 1938.".
+<#n168>
+    :shortTitle "Robert 1940"; 
+    :shortDescription "L. Robert, Hellenica. Recueil d’épigraphie de numismatique et d’antiquitiés grecques, 13 vols., Limoges, 1940-.".
+<#n169>
+    :shortTitle "Robert 1940a"; 
+    :shortDescription "L. Robert, “Inscriptions de Bithynie copiées par Georges Radet,” REA 42 (1940) 302-322.".
+<#n170>
+    :shortTitle "Roesch 1985"; 
+    :shortDescription "P. Roesch, Tiresias: Appendix Epigraphica, 1985.".
+<#n171>
+    :shortTitle "Roman 1993"; 
+    :shortDescription "Y. Roman, La frontière: séminaire de recherche, Lyon, 1993.".
+<#n172>
+    :shortTitle "Romanelli 1939"; 
+    :shortDescription "P. Romanelli, “Tre iscrizioni tripolitane di interesse storico,” Epigraphica 1 (1939) 99-118.".
+<#n173>
+    :shortTitle "Rousset 1994"; 
+    :shortDescription "D. Rousset, “Les frontières des cités grecques. Premières réflexions à partir du recueil des documents èpigraphiques,” CahiersGlotz 5 (1994) 97-126.".
+<#n174>
+    :shortTitle "Rousset 2002"; 
+    :shortDescription "D. Rousset, Le territoire de Delphes et la terre d’Apollon, BEFAR 302, Paris, 2002.".
+<#n175>
+    :shortTitle "Şahin 1984"; 
+    :shortDescription "S. Şahin, “Ti. Iulius Frugi: proconsul von Lycia-Pamphylia unter Mark Aurel und Verus, Abgrenzung des Stadtgebiets von Arykanda,” EA 3 (1984) 39-48.".
+<#n176>
+    :shortTitle "Şahin 1986"; 
+    :shortDescription "S. Şahin, “Studien über die Probleme der historischen Geographie des nordwestlichen Kleinasiens I: Strabon XII 3,7 p. 543, der Fluss Gallos, die Stadt Modr<en>e in Phrygia Epiktetos und die Schiffbarkeit des Sangarios,” EA 7 (1986) 125-152.".
+<#n177>
+    :shortTitle "Şahin 1992"; 
+    :shortDescription "S. Şahin, “Statthalter der Provinzen Pamphylia-Lycia und Bithynia-Pontus in der Zeit der Statusänderung beider Provinzen unter Mark Aurel und Lucius Verus,” EA 20 (1992) 80-89.".
+<#n178>
+    :shortTitle "Sarikakes 1971"; 
+    :shortDescription "Theodoros Sarikakes, Romaioi archontes tes eparchias Makedonias, 2 vols., Thessalonike, 1971-1977.".
+<#n179>
+    :shortTitle "Scherrer 1990"; 
+    :shortDescription "P. Scherrer, “Augustus, die Mission des Vedius Pollio und die Artemis Ephesia,” JÖAI 60 (1990) 87-101.".
+<#n180>
+    :shortTitle "Schlumberger 1939"; 
+    :shortDescription "D. Schlumberger, “Bornes frontières de la Palmyrène,” Syria 20 (1939) 43-73.".
+<#n181>
+    :shortTitle "Slootjes 2000"; 
+    :shortDescription "D. Slootjes, Ceremonies upon the arrival of the governor: a forgotten aspect of Roman imperial routine, M.A. Thesis, Chapel Hill, 2000.".
+<#n182>
+    :shortTitle "Smallwood 1966"; 
+    :shortDescription "E. Smallwood, Documents Illustrating the Principates of Nerva, Trajan and Hadrian, Cambridge, 1966.".
+<#n183>
+    :shortTitle "Smallwood 1967"; 
+    :shortDescription "E. Smallwood, Documents Illustrating the principates of Gaius, Claudius and Nero, Cambridge, 1967.".
+<#n184>
+    :shortTitle "Sonnabend 1994"; 
+    :shortDescription "H. Sonnabend and E. Olshausen (eds.), Stuttgarter Kolloquium zur historischen Geographie des Altertums 4, 1990, Bonn, 1994.".
+<#n185>
+    :shortTitle "Spano 1910b"; 
+    :shortDescription "G. Spano, “Pompei - Relazione degli scavi eseguiti negli anni 1908 e 1909,” NSA (1910) 377-418.".
+<#n186>
+    :shortTitle "Stadter 1980"; 
+    :shortDescription "P. Stadter, Arrian of Nicomedia, Chapel Hill, 1980.".
+<#n187>
+    :shortTitle "Stählin 1924"; 
+    :shortDescription "F. Stählin, Das Hellenische Thessalien: Landeskundliche und geschichtliche Beschreibung Thessaliens in der hellenischen und römischen Zeit, Amsterdam, 1924.".
+<#n188>
+    :shortTitle "Stylow 1986"; 
+    :shortDescription "A. Stylow, “Apuntes sobre epigrafía de época flavia en Hispania,” Gerión 4 (1986) 285-311.".
+<#n189>
+    :shortTitle "Szemler 1989"; 
+    :shortDescription "G. Szemler et al., “The Donation of M. Acilius Glabrio, cos. 191: A Re-interpretation,” AHB 3 (1989) 68-77.".
+<#n190>
+    :shortTitle "Tačeva 1992"; 
+    :shortDescription "M. Tačeva, “Phylarchoi und Phylai in der Provinz Thracia,” Index 20 (1992) 179-187.".
+<#n191>
+    :shortTitle "Talbert 1984"; 
+    :shortDescription "R. Talbert, The Senate of Imperial Rome, Princeton, 1984.".
+<#n192>
+    :shortTitle "Thomas 1976"; 
+    :shortDescription "J. Thomas, Textbook of Roman Law, Amsterdam, 1976.".
+<#n193>
+    :shortTitle "Thomasson 1984"; 
+    :shortDescription "B. Thomasson, Laterculi Praesidum, 3 vols., Göteborg, 1984-1990.".
+<#n194>
+    :shortTitle "Thomasson 1991"; 
+    :shortDescription "B. Thomasson, Legatus: Beiträge zur römischen Verwaltungsgeschichte, AIRRS 18, Stockholm, 1991.".
+<#n195>
+    :shortTitle "Thomasson 1996"; 
+    :shortDescription "B.E. Thomasson, Fasti africani: senatorische und ritterliche Amtsträger in den römischen Provinzen Nordafrikas von Augustus bis Diokletian, SkrSvenInst 53, Stockholm, 1996.".
+<#n196>
+    :shortTitle "Trousset 1976"; 
+    :shortDescription "P. Trousset, “Reconnaisances archéologiques sur la frontière saharience de l’Empire romain dans le sud-ouest de la Tunisie”  in Lille d’archéologie 1976 pp. 21-33.".
+<#n197>
+    :shortTitle "Trousset 1978"; 
+    :shortDescription "P. Trousset, “Les bornes du Bled Segui. Nouveaux aperçus sur la centuriation romaine du sud Tunisie,” AntAf 12 (1978) 125-178.".
+<#n198>
+    :shortTitle "Trousset 1997"; 
+    :shortDescription "P. Trousset, “Un nouveau document sur la limitatio de C. Vibius Marsus (Sud Tunisien)”  in Roman Frontier Studies 1995 pp. 3-11.".
+<#n199>
+    :shortTitle "Vallat 1979"; 
+    :shortDescription "J. Vallat, “Le vocabulaire des attributions de terres en Campanie: analyse spatiale et temporelle,” MEFRA 91.2 (1979) 977-1013.".
+<#n200>
+    :shortTitle "Vaquerizo Gil 1986"; 
+    :shortDescription "D. Vaquerizo Gil, “Epigrafía romana inédita de la llamada ‘Siberia Extremeña’,” RevEsExtr 42 (1986) 115-137.".
+<#n201>
+    :shortTitle "Velkov 1970"; 
+    :shortDescription "V. Velkov, “Epigraphische Beiträge zur historischen Geographie der Moesia Inferior,” Studia Balcanica 1 (1970) 55-60.".
+<#n202>
+    :shortTitle "Vine 1993"; 
+    :shortDescription "B. Vine, “Review of Gager 1992,” BMCR 04.02.03 (1993) ; URL: http://ccat.sas.upenn.edu/bmcr/1993/04.02.03.html.".
+<#n203>
+    :shortTitle "Vulpe 1968"; 
+    :shortDescription "R. Vulpe and I. Barnea, Romanii la Dunărea de Jos, Bucarest, 1968.".
+<#n204>
+    :shortTitle "Wace 1911"; 
+    :shortDescription "A. Wace and M. Thompson, “A Latin Inscription from Perrhaebia,” BSA 17 (1910/1911) 193-204.".
+<#n205>
+    :shortTitle "Whittaker 1978"; 
+    :shortDescription "C. Whittaker, “Land and Labour in North Africa,” Klio 60 (1978) 331-362.".
+<#n206>
+    :shortTitle "Wilkes 1967"; 
+    :shortDescription "J. Wilkes, “A New Governor of Dalmatia,” Epigraphische Studien 4 (1967) 119-121.".
+<#n207>
+    :shortTitle "Wilkes 1974"; 
+    :shortDescription "J. Wilkes, “Boundary Stones in Roman Dalmatia,” ArhVest 25 (1974) 258-274.".
+<#n208>
+    :shortTitle "Woodward 1913"; 
+    :shortDescription "A. Woodward, “Inscriptions from Thessaly and Macedonia,” JHS 33 (1913) 313-346.".
+# Total number of records: 208

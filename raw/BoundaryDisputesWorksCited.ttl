@@ -1,0 +1,835 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+            
+<http://id.stoa.org/bibl/ager-1989> a bibo:Document ;
+    dcterms:title "Ager 1989" ;
+    dcterms:description "S. Ager, “Judicial Imperialism: the Case of Melitaia,” AHB 3.5 (1989) 107-114." .
+        
+<http://id.stoa.org/bibl/ager-1996> a bibo:Document ;
+    dcterms:title "Ager 1996" ;
+    dcterms:description "S. Ager, Interstate arbitrations in the Greek world, 337-90 B.C., Berkeley, 1996." .
+        
+<http://id.stoa.org/bibl/aichinger-1982> a bibo:Document ;
+    dcterms:title "Aichinger 1982" ;
+    dcterms:description "A. Aichinger, “Grenzziehung durch kaiserliche Sonderbeauftragte in den römischen provinzen,” ZPE 48 (1982) 193-204." .
+        
+<http://id.stoa.org/bibl/alarcáo-1976> a bibo:Document ;
+    dcterms:title "Alarcáo 1976" ;
+    dcterms:description "J. Alarcáo and R. Etienne, “La Portugal à l’époque augustéenne” in Ciudades augusteas 1 pp. 171-187." .
+        
+<http://id.stoa.org/bibl/alföldy-1969> a bibo:Document ;
+    dcterms:title "Alföldy 1969" ;
+    dcterms:description "G. Alföldy, Fasti Hispanienses: Senatorische Reichsbeamte und Offiziere in den Spanischen Provinzen des Römischen Reiches von Augustus bis Diokletian, Wiesbaden, 1969." .
+        
+<http://id.stoa.org/bibl/alföldy-1991> a bibo:Document ;
+    dcterms:title "Alföldy 1991" ;
+    dcterms:description "G. Alföldy, “Epigraphische Notizen aus Kleinasien I: Ein Beneficium des Augustus in Ephesos,” ZPE 87 (1991) 157-162 with Pl. IV." .
+        
+<http://id.stoa.org/bibl/alí-1996> a bibo:Document ;
+    dcterms:title "Alí 1996" ;
+    dcterms:description "F. Alí, “Targunia dal periodo greco fino alla fine dell’età fatimita” in Bacchielli 1996 1 pp. 127-134." .
+        
+<http://id.stoa.org/bibl/ali-mohamed-1994> a bibo:Document ;
+    dcterms:title "Ali Mohamed 1994" ;
+    dcterms:description "F. Ali Mohamed and R. Reynolds, “Inscriptions Recently Discovered in Cyrenaica” in Africa romana 11 3 pp. 1323-1327." .
+        
+<http://id.stoa.org/bibl/bacchielli-1996> a bibo:Document ;
+    dcterms:title "Bacchielli 1996" ;
+    dcterms:description "L. Bacchielli et al (eds.), Scritti di Antichità in memoria di Sandro Stucchi, Studi Miscellanei 29, Rome, 1996." .
+        
+<http://id.stoa.org/bibl/baldwin-bowsky-1987> a bibo:Document ;
+    dcterms:title "Baldwin Bowsky 1987" ;
+    dcterms:description "M. Bowsky, “Roman arbitration in central Crete: an Augustan proconsul and a Neronian procurator,” CJ 82 (1986/87) 218-229." .
+        
+<http://id.stoa.org/bibl/bammer-1974> a bibo:Document ;
+    dcterms:title "Bammer 1974" ;
+    dcterms:description "A. Bammer et al., Führer durch das Archäologische Museum in Selçuk-Ephesos, Vienna, 1974." .
+        
+<http://id.stoa.org/bibl/banev-1981> a bibo:Document ;
+    dcterms:title "Banev 1981" ;
+    dcterms:description "Kr. Banev and R. Lazov, “Inscriptions latines de la Mésie Inférieure et de la Thrace,” Arch (Sofia) 23 (1981) 37-45." .
+        
+<http://id.stoa.org/bibl/bean-1959> a bibo:Document ;
+    dcterms:title "Bean 1959" ;
+    dcterms:description "G.E. Bean, “Notes and inscriptions from Pisidia. Part 1,” AS 9 (1959) 67-117." .
+        
+<http://id.stoa.org/bibl/bénabou-1976> a bibo:Document ;
+    dcterms:title "Bénabou 1976" ;
+    dcterms:description "M. Bénabou, La résistance africaine à la romanisation, Paris, 1976." .
+        
+<http://id.stoa.org/bibl/bénabou-1986> a bibo:Document ;
+    dcterms:title "Bénabou 1986" ;
+    dcterms:description "H. Bénabou, “L’Afrique” in Crawford 1986 pp. 127-141." .
+        
+<http://id.stoa.org/bibl/bennett-1997> a bibo:Document ;
+    dcterms:title "Bennett 1997" ;
+    dcterms:description "J. Bennett, Trajan, optimus princeps : a life and times, Bloomington, 1997." .
+        
+<http://id.stoa.org/bibl/benzina-ben-abdallah-1992> a bibo:Document ;
+    dcterms:title "Benzina ben Abdallah 1992" ;
+    dcterms:description "Z. Benzina ben Abdallah, “Du côte d’Ammaedra: Musulamii et Musunii Regiani,” AntAf 28 (1992) 139-145." .
+        
+<http://id.stoa.org/bibl/beschaouch-1968> a bibo:Document ;
+    dcterms:title "Beschaouch 1968" ;
+    dcterms:description "A. Beschaouch, “Mustitana: Recueil des nouvelles inscriptions de Mustis, cité romaine de Tunisie,” Karthago 14 (1965/1966) 121-224." .
+        
+<http://id.stoa.org/bibl/betz-1938> a bibo:Document ;
+    dcterms:title "Betz 1938" ;
+    dcterms:description "A. Betz, Untersuchungen zur Militärgeschichte der römischen Provinz Dalmatien, Abhandlungen des archäologisch-epigraphischen Seminars der Universität Wien new series, heft 4, Baden bei Wien, 1938." .
+        
+<http://id.stoa.org/bibl/binder-1987> a bibo:Document ;
+    dcterms:title "Binder 1987" ;
+    dcterms:description "G. Binder (ed.), Saeculum Augustum I: Herrschaft und Gesellschaft, Darmstadt, 1987." .
+        
+<http://id.stoa.org/bibl/birley-1997> a bibo:Document ;
+    dcterms:title "Birley 1997" ;
+    dcterms:description "A. Birley, Hadrian: The Restless Emperor, London, 1997." .
+        
+<http://id.stoa.org/bibl/birley-2000> a bibo:Document ;
+    dcterms:title "Birley 2000" ;
+    dcterms:description "A. Birley, Marcus Aurelius: A Biography, New York, 2000." .
+        
+<http://id.stoa.org/bibl/birley-2002> a bibo:Document ;
+    dcterms:title "Birley 2002" ;
+    dcterms:description "A. Birley, The Prosopography of Roman Imperial Government: Fasti Provinciarum, Barcelona, 2002; URL: http://www.ub.es/epigraphiae/PDF/Preograma%20EPI%20DEFINITIU.pdf." .
+        
+<http://id.stoa.org/bibl/boatwright-2000> a bibo:Document ;
+    dcterms:title "Boatwright 2000" ;
+    dcterms:description "M.T. Boatwright, Hadrian and the Cities of the Roman Empire, Princeton, 2000." .
+        
+<http://id.stoa.org/bibl/borzsák-1986> a bibo:Document ;
+    dcterms:title "Borzsák 1986" ;
+    dcterms:description "I. Borzsák and K. Wellesley (eds.), Cornelii Taciti libri qui supersunt, Leipzig, 1986-1992." .
+        
+<http://id.stoa.org/bibl/bosch-1967> a bibo:Document ;
+    dcterms:title "Bosch 1967" ;
+    dcterms:description "E. Bosch, Quellen zur Geschichte der Stadt Ankara im Altertum, Ankara, 1967." .
+        
+<http://id.stoa.org/bibl/bouchenaki-1977> a bibo:Document ;
+    dcterms:title "Bouchenaki 1977" ;
+    dcterms:description "M. Bouchenaki and P. Février, “Un ‘castellum’ de la region de Tipasa de Juba a Septime Severe,” BAA 7 (1977-1979) 193-215." .
+        
+<http://id.stoa.org/bibl/bowersock-1991> a bibo:Document ;
+    dcterms:title "Bowersock 1991" ;
+    dcterms:description "G. Bowersock, “Review of MAMA 9,” JRS 81 (1991) 223-225." .
+        
+<http://id.stoa.org/bibl/bowman-1996> a bibo:Document ;
+    dcterms:title "Bowman 1996" ;
+    dcterms:description "A. Bowman, “Provincial Administration and Taxation” in CAH 2 10 pp. 344-370." .
+        
+<http://id.stoa.org/bibl/božilova-1985> a bibo:Document ;
+    dcterms:title "Božilova 1985" ;
+    dcterms:description "V. Božilova and J. Kolendo, “Гранчен стълб от 136 гнамерен в Нове,” Arch (Sofia) 27 (1985) 39-46." .
+        
+<http://id.stoa.org/bibl/brice-2002> a bibo:Document ;
+    dcterms:title "Brice 2002" ;
+    dcterms:description "L. Brice, Holding a Wolf by the Ears: Mutiny and Unrest in the Roman Military, 44 B.C.-AD 68, Ph.D. Dissertation, Chapel Hill, 2002." .
+        
+<http://id.stoa.org/bibl/bringmann-1995> a bibo:Document ;
+    dcterms:title "Bringmann 1995" ;
+    dcterms:description "K. Bringmann and H. von Steuben, Schenkungen hellenistischer Herrscher an griechische Städte und Heiligtümer, 2 vols., Berlin, 1995." .
+        
+<http://id.stoa.org/bibl/bruneau-1975> a bibo:Document ;
+    dcterms:title "Bruneau 1975" ;
+    dcterms:description "P. Bruneau, “Deliaca (II),” BCH 99 (1975) 267-311." .
+        
+<http://id.stoa.org/bibl/buraselis-1993> a bibo:Document ;
+    dcterms:title "Buraselis 1993" ;
+    dcterms:description "K. Buraselis, “Bemerkungen zum Dekret der Battynäer” in Ancient Macedonia V 1 pp. 280-292." .
+        
+<http://id.stoa.org/bibl/burton-1993> a bibo:Document ;
+    dcterms:title "Burton 1993" ;
+    dcterms:description "G.P. Burton, “Provincial Procurators and the Public Provinces,” Chiron 23 (1993) 13-28." .
+        
+<http://id.stoa.org/bibl/burton-2000> a bibo:Document ;
+    dcterms:title "Burton 2000" ;
+    dcterms:description "G.P. Burton, “The Resolution of Territorial Disputes in the Provinces of the Roman Empire,” Chiron 30 (2000) 195-215." .
+        
+<http://id.stoa.org/bibl/burton-2002> a bibo:Document ;
+    dcterms:title "Burton 2002" ;
+    dcterms:description "G. Burton, “The Regulation of Inter-community Relations in the Provinces and the Political Integration of the Roman Empire” in Gorman 2002 pp. 113-128." .
+        
+<http://id.stoa.org/bibl/burton-2002b> a bibo:Document ;
+    dcterms:title "Burton 2002b" ;
+    dcterms:description "G. Burton, “The Roman Imperial State (A.D. 14-235): Evidence and Reality,” Chiron 32 (2002) 249-280." .
+        
+<http://id.stoa.org/bibl/cadoni-1993> a bibo:Document ;
+    dcterms:title "Cadoni 1993" ;
+    dcterms:description "E. Cadoni, “La Tabula bronzea di Esterzili (CIL X, 7852 = ILS 5947)” in Mastino 1993 pp. 77-98." .
+        
+<http://id.stoa.org/bibl/cagnat-1894> a bibo:Document ;
+    dcterms:title "Cagnat 1894" ;
+    dcterms:description "R. Cagnat, “Note sur les limites de la Province romaine d’Afrique en 146,” CRAI (1894) 43." .
+        
+<http://id.stoa.org/bibl/cagnat-1903> a bibo:Document ;
+    dcterms:title "Cagnat 1903" ;
+    dcterms:description "R. Cagnat, “Sabinius non Licinius Barbarus” in Mélanges Boissier pp. 99-102." .
+        
+<http://id.stoa.org/bibl/cagnat-1909> a bibo:Document ;
+    dcterms:title "Cagnat 1909" ;
+    dcterms:description "R. Cagnat, “Les Νυβγηνοί  de Ptolémée,” CRAI (1909) 568-579." .
+        
+<http://id.stoa.org/bibl/camodeca-1993> a bibo:Document ;
+    dcterms:title "Camodeca 1993" ;
+    dcterms:description "G. Camodeca, “Per una riedizione delle ‘Tabulae Herculanenses’ 2” in Ostraka 2.2 pp. 197-209." .
+        
+<http://id.stoa.org/bibl/camodeca-1994> a bibo:Document ;
+    dcterms:title "Camodeca 1994" ;
+    dcterms:description "G. Camodeca, “Riedizione del trittico ercolanese TH 77 + 78 + 80 + 53 + 92 del 26 gennaio 69,” BCPE 24 (1994) 137-146." .
+        
+<http://id.stoa.org/bibl/camodeca-1996> a bibo:Document ;
+    dcterms:title "Camodeca 1996" ;
+    dcterms:description "G. Camodeca, “Una nuova coppia di consoli del 148 e il proconsul Achaiae M. Calpurnius Longus,” ZPE 112 (1996) 235-240." .
+        
+<http://id.stoa.org/bibl/campbell-1996> a bibo:Document ;
+    dcterms:title "Campbell 1996" ;
+    dcterms:description "B. Campbell, “Shaping the Rural Environment: Surveyors in Ancient Rome,” JRS 86 (1996) 74-99." .
+        
+<http://id.stoa.org/bibl/campbell-2000> a bibo:Document ;
+    dcterms:title "Campbell 2000" ;
+    dcterms:description "B. Campbell, The Writings of the Roman Land Surveyors: Introduction, Text, Translation and Commentary, JRS Monograph 9, London, 2000." .
+        
+<http://id.stoa.org/bibl/carlsen-1994> a bibo:Document ;
+    dcterms:title "Carlsen 1994" ;
+    dcterms:description "J. Carlsen et al (eds.), Landuse in the Roman Empire, Rome, 1994." .
+        
+<http://id.stoa.org/bibl/carlsen-1994a> a bibo:Document ;
+    dcterms:title "Carlsen 1994a" ;
+    dcterms:description "J. Carlsen, “CIL X 8217 and the Question of Temple Land in Roman Italy” in Carlsen 1994 pp. 9-15." .
+        
+<http://id.stoa.org/bibl/carlsen-1995> a bibo:Document ;
+    dcterms:title "Carlsen 1995" ;
+    dcterms:description "J. Carlsen, Vilici and Roman Estate Managers Until AD 284, Rome, 1995." .
+        
+<http://id.stoa.org/bibl/carton-1895> a bibo:Document ;
+    dcterms:title "Carton 1895" ;
+    dcterms:description "L. Carton, Découvertes épigraphiques et archéologiques faites en Tunisie (région de Dougga), Mémoires Lille 5.4, Lille, 1895." .
+        
+<http://id.stoa.org/bibl/casevitz-1993> a bibo:Document ;
+    dcterms:title "Casevitz 1993" ;
+    dcterms:description "M. Casevitz, “Les mots de la frontière en grec” in Roman 1993 pp. 17-24." .
+        
+<http://id.stoa.org/bibl/champlin-1978> a bibo:Document ;
+    dcterms:title "Champlin 1978" ;
+    dcterms:description "E. Champlin, “Pegasus,” ZPE 32 (1978), 269-278." .
+        
+<http://id.stoa.org/bibl/chelotti-1985> a bibo:Document ;
+    dcterms:title "Chelotti 1985" ;
+    dcterms:description "M. Chelotti et al, Le epigrafi romane di Canosa, Bari, 1985." .
+        
+<http://id.stoa.org/bibl/chrimes-1949> a bibo:Document ;
+    dcterms:title "Chrimes 1949" ;
+    dcterms:description "K. Chrimes, Ancient Sparta, a re-examination of the evidence, Manchester, 1949." .
+        
+<http://id.stoa.org/bibl/christofle-1935> a bibo:Document ;
+    dcterms:title "Christofle 1935" ;
+    dcterms:description "M. Christofle, Rapport sur le fouilles effectuées en 1930-1931-1932 par le service des monuments historiques de l’Algérie, Algiers, 1935." .
+        
+<http://id.stoa.org/bibl/christol-1982> a bibo:Document ;
+    dcterms:title "Christol 1982" ;
+    dcterms:description "M. Christol and T Drew-Bear, “Une délimitation de territoire en Phrygie-Carie,” TRTurquie 1982, 21-42." .
+        
+<http://id.stoa.org/bibl/christol-1998> a bibo:Document ;
+    dcterms:title "Christol 1998" ;
+    dcterms:description "M. Christol and Th. Drew-Bear, “Le prince et ses représentants aux limites de l’Asie et de la Galatie: un nouveau questeur et un nouveau proconsul d’Asie sous Septime Sévère,” CahiersGlotz 9 (1998) 143-164." .
+        
+<http://id.stoa.org/bibl/contencin-1934> a bibo:Document ;
+    dcterms:title "Contencin 1934" ;
+    dcterms:description "A. Contencin, “Note sur une borne de la Fossa Regia,” BCTH (1934/5) 390." .
+        
+<http://id.stoa.org/bibl/crawford-1986> a bibo:Document ;
+    dcterms:title "Crawford 1986" ;
+    dcterms:description "M. Crawford (ed.), L’Impero romano e le strutture economiche e sociali delle province, Como, 1986." .
+        
+<http://id.stoa.org/bibl/crook-1967> a bibo:Document ;
+    dcterms:title "Crook 1967" ;
+    dcterms:description "J. Crook, Law and Life of Rome, Ithaca, NY, 1967." .
+        
+<http://id.stoa.org/bibl/daux-1976> a bibo:Document ;
+    dcterms:title "Daux 1976" ;
+    dcterms:description "G. Daux, “L’Amphictyonie delphique sous l’Empire” in Recueil Plassart pp. 59-79." .
+        
+<http://id.stoa.org/bibl/de-franciscis-1956> a bibo:Document ;
+    dcterms:title "De Franciscis 1956" ;
+    dcterms:description "A. de Franciscis, “Templum Dianae Tifatinae,” ASTL 1 (1956) 301-358." .
+        
+<http://id.stoa.org/bibl/de-franciscis-1966> a bibo:Document ;
+    dcterms:title "De Franciscis 1966" ;
+    dcterms:description "A. De Franciscis, “Note sui ‘Praedia Dianae Tifatinae’,” RAALN 41 (1966) 241-246." .
+        
+<http://id.stoa.org/bibl/desanges-1962> a bibo:Document ;
+    dcterms:title "Desanges 1962" ;
+    dcterms:description "J. Desanges, Catalogue des tribus Africaines de l’antiquité classique a l’ouest du Nil, Dakar, 1962." .
+        
+<http://id.stoa.org/bibl/desanges-1983> a bibo:Document ;
+    dcterms:title "Desanges 1983" ;
+    dcterms:description "J. Desanges and S. Lancel, “L’apport des nouvelles Lettres à la géographie historique de l’Afrique antique et de l’Église d’Afrique” in Lettres de Saint Augustin découvertes pp. 87-99." .
+        
+<http://id.stoa.org/bibl/desanges-1994> a bibo:Document ;
+    dcterms:title "Desanges 1994" ;
+    dcterms:description "J. Desanges, “Auguste a-t-il confirmé une décision de Juba II dans l’administration interne du royaume protégé de Maurétanie?,” BCTH 23 (1990-1992) 218-220." .
+        
+<http://id.stoa.org/bibl/devijver-1976> a bibo:Document ;
+    dcterms:title "Devijver 1976" ;
+    dcterms:description "H. Devijver, Prosopographia militiarum equestrium quae fuerunt ab Augusto ad Gallienum, 3 vols., Leuven, 1976-1980." .
+        
+<http://id.stoa.org/bibl/di-vita-evrard-1979> a bibo:Document ;
+    dcterms:title "Di Vita-Evrard 1979" ;
+    dcterms:description "G. di Vita-Evrard, “Quatre inscriptions du Djebel Tarhuna: le territoire de Lepcis Magna,” QAL 10 (1979) 67-98 and map." .
+        
+<http://id.stoa.org/bibl/dignas-2002> a bibo:Document ;
+    dcterms:title "Dignas 2002" ;
+    dcterms:description "B. Dignas, Economy of the sacred in Hellenistic and Roman Asia Minor, New York, 2002." .
+        
+<http://id.stoa.org/bibl/dindorf-1868> a bibo:Document ;
+    dcterms:title "Dindorf 1868" ;
+    dcterms:description "L. Dindorf (ed.), Ioannis Zonarae Epitome Historiarum, 6 vols., Leipzig, 1868-1875." .
+        
+<http://id.stoa.org/bibl/doblhofer-1960> a bibo:Document ;
+    dcterms:title "Doblhofer 1960" ;
+    dcterms:description "E. Doblhofer, “Eine Grenzregelung in Kilikien,” JÖAI 45 (1960) Hauptblatt 39-44." .
+        
+<http://id.stoa.org/bibl/dobson-1978> a bibo:Document ;
+    dcterms:title "Dobson 1978" ;
+    dcterms:description "B. Dobson, Die Primipilares: Entwicklung und Bedeutung, Laufbahnen und Persönlichkeiten eines römischen Offiziersranges, Cologne, 1978." .
+        
+<http://id.stoa.org/bibl/doukellis-1995> a bibo:Document ;
+    dcterms:title "Doukellis 1995" ;
+    dcterms:description "P. Doukellis and S. Zoumbaki, “De Flamininus aux Antonins: Conquête et aménagements de l’espace extra-urbain en Achaïe et Macédoine,” DHA 21.2 (1995) 205-228." .
+        
+<http://id.stoa.org/bibl/ducrey-1969> a bibo:Document ;
+    dcterms:title "Ducrey 1969" ;
+    dcterms:description "P. Ducrey, “Trois nouvelles inscriptions crétoises,” BCH 93 (1969) 841-852." .
+        
+<http://id.stoa.org/bibl/eck-1999> a bibo:Document ;
+    dcterms:title "Eck 1999" ;
+    dcterms:description "W. Eck (ed.), Lokale Autonomie und römische Ordnungsmacht in den kaiserzeitlichen Provinzen vom 1. bis 3. Jahrhundert, Munich, 1999." .
+        
+<http://id.stoa.org/bibl/ehrenberg-1955> a bibo:Document ;
+    dcterms:title "Ehrenberg 1955" ;
+    dcterms:description "V. Ehrenberg and A. Jones (eds.), Documents Illustrating the Reigns of Augustus and Tiberius, Oxford, 1955." .
+        
+<http://id.stoa.org/bibl/elliott-1997> a bibo:Document ;
+    dcterms:title "Elliott 1997" ;
+    dcterms:description "T. Elliott, Diocletianic Census Inscriptions from the Aegean Islands and Asia Minor, M.A. Thesis, Chapel Hill, 1997." .
+        
+<http://id.stoa.org/bibl/engelmann-1993> a bibo:Document ;
+    dcterms:title "Engelmann 1993" ;
+    dcterms:description "H. Engelmann, “Zum Kaiserkult in Ephesos,” ZPE 97 (1993) 279-289." .
+        
+<http://id.stoa.org/bibl/engelmann-1998> a bibo:Document ;
+    dcterms:title "Engelmann 1998" ;
+    dcterms:description "H. Engelmann, “Ephesiaca,” ZPE 121 (1998) 305-311." .
+        
+<http://id.stoa.org/bibl/engelmann-1999> a bibo:Document ;
+    dcterms:title "Engelmann 1999" ;
+    dcterms:description "H. Engelmann, “Inschriften aus Metropolis,” ZPE 125 (1999) 137-146." .
+        
+<http://id.stoa.org/bibl/faraone-1991> a bibo:Document ;
+    dcterms:title "Faraone 1991" ;
+    dcterms:description "C. Faraone and D. Obbink, eds., Magika Hiera: Ancient Greek Magic and Religion, New York, 1991." .
+        
+<http://id.stoa.org/bibl/faraone-1991a> a bibo:Document ;
+    dcterms:title "Faraone 1991a" ;
+    dcterms:description "C. Faraone, “The Agonistic Context of Early Greek Binding Spells” in Faraone 1991 pp. 3-32." .
+        
+<http://id.stoa.org/bibl/fentress-1979> a bibo:Document ;
+    dcterms:title "Fentress 1979" ;
+    dcterms:description "E. Fentress, Numidia and the Roman Army: Social, Military and Economic Aspects of the Frontier Zone, BAR International Series 53, Oxford, 1979." .
+        
+<http://id.stoa.org/bibl/fitz-1966> a bibo:Document ;
+    dcterms:title "Fitz 1966" ;
+    dcterms:description "J. Fitz, Die Laufbahn der Statthalter in der römischen Provinz Moesia Inferior, Weimar, 1966." .
+        
+<http://id.stoa.org/bibl/fossey-1981> a bibo:Document ;
+    dcterms:title "Fossey 1981" ;
+    dcterms:description "J. Fossey, “The City Archive at Koroneia,” Euphrosyne 11 (1981/82) 44-59." .
+        
+<http://id.stoa.org/bibl/franklin-2001> a bibo:Document ;
+    dcterms:title "Franklin 2001" ;
+    dcterms:description "J. Franklin, Pompeis difficile est: studies in the political life of imperial Pompeii, Ann Arbor, 2001." .
+        
+<http://id.stoa.org/bibl/french-1991> a bibo:Document ;
+    dcterms:title "French 1991" ;
+    dcterms:description "D. French, “Sites and Inscriptions from Phrygia, Pisidia and Pamphylia,” EA 17 (1981) 51-68." .
+        
+<http://id.stoa.org/bibl/french-1997> a bibo:Document ;
+    dcterms:title "French 1997" ;
+    dcterms:description "D.H. French, “Inscriptions in the Museums of Akşehir and Yalvaç,” EA 29 (1997) 60-64." .
+        
+<http://id.stoa.org/bibl/frézouls-1981> a bibo:Document ;
+    dcterms:title "Frézouls 1981" ;
+    dcterms:description "E. Frézouls, “A propos de la Tabula Clesiana,” Ktema 6 (1981) 239-252." .
+        
+<http://id.stoa.org/bibl/gager-1992> a bibo:Document ;
+    dcterms:title "Gager 1992" ;
+    dcterms:description "J. Gager, Curse Tablets and Binding Spells from the Ancient World, Oxford, 1992." .
+        
+<http://id.stoa.org/bibl/garcia-rozas-1993> a bibo:Document ;
+    dcterms:title "Garcia Rozas 1993" ;
+    dcterms:description "R. Garcia Rozas and J. Abasolo, “Bronces Romanos del Museo de Zamora,” in Bronces y Religion Romana pp. 170-196." .
+        
+<http://id.stoa.org/bibl/gascou-1983> a bibo:Document ;
+    dcterms:title "Gascou 1983" ;
+    dcterms:description "J. Gascou, “Pagus et castellum dans la confédération cirtéenne,” AntAf 19 (1983) 175-207." .
+        
+<http://id.stoa.org/bibl/gascou-1989> a bibo:Document ;
+    dcterms:title "Gascou 1989" ;
+    dcterms:description "J. Gascou and R. Guéry, “Inscriptions du sud Constantinois,” AntAf 25 (1989) 135-176." .
+        
+<http://id.stoa.org/bibl/gasperini-1992> a bibo:Document ;
+    dcterms:title "Gasperini 1992" ;
+    dcterms:description "L. Gasperini (ed.), Rupes Loquentes: Atti del Convegno internazionale di studio sulle iscrizioni rupestri de età Romana in Italia, Roma - Bomarzo 13-15. X. 1989, Tivoli, 1992." .
+        
+<http://id.stoa.org/bibl/gasperini-1992a> a bibo:Document ;
+    dcterms:title "Gasperini 1992a" ;
+    dcterms:description "L. Gasperini, “Il Macigno dei Balari ai Piedi del Monte Limbara (Sardegna Nord-Orientale)” in Gasperini 1992 pp. 579-589." .
+        
+<http://id.stoa.org/bibl/gorman-2002> a bibo:Document ;
+    dcterms:title "Gorman 2002" ;
+    dcterms:description "V. Gorman and E. Robinson, Oikistes: Studies in Constitutions, Colonies, and Military Power in the Ancient World. Offered in Honor of A.J. Graham, Mnemosyne Suppl. 234, Leiden, 2002." .
+        
+<http://id.stoa.org/bibl/gschnitzer-1994> a bibo:Document ;
+    dcterms:title "Gschnitzer 1994" ;
+    dcterms:description "F. Gschnitzer, “Zur Terminologie der Grenze und des Gebietes im Griechischen” in Sonnabend 1994 pp. 25-33." .
+        
+<http://id.stoa.org/bibl/guénin-1908> a bibo:Document ;
+    dcterms:title "Guénin 1908" ;
+    dcterms:description "M. Le Commandant Guénin, “Inventaire archéologique du cercle de Tébessa,” NouvArch 17 (1908) 75-234." .
+        
+<http://id.stoa.org/bibl/haensch-1999> a bibo:Document ;
+    dcterms:title "Haensch 1999" ;
+    dcterms:description "R. Haensch, “Heraclea ad Salbacum, die heiligen Dörfer der Artemis Sbryallis und der Kaiser” in Eck 1999 pp. 115-139." .
+        
+<http://id.stoa.org/bibl/hatzopoulos-1989> a bibo:Document ;
+    dcterms:title "Hatzopoulos 1989" ;
+    dcterms:description "M. Hatzopoulos and L. Loukopoulou, Morrylos, cité de la Crestonie, Athens, 1989." .
+        
+<http://id.stoa.org/bibl/henzen-1856> a bibo:Document ;
+    dcterms:title "Henzen 1856" ;
+    dcterms:description "G. Henzen, “Iscrizione di Lamia,” Bullettino dell’ Instituto (1856) 72-76." .
+        
+<http://id.stoa.org/bibl/hitchner-1994> a bibo:Document ;
+    dcterms:title "Hitchner 1994" ;
+    dcterms:description "R. Hitchner, “Image and Reality: The Changing Face of Pastoralism in the Tunisian High Steppe” in Carlsen 1994 pp. 27-43." .
+        
+<http://id.stoa.org/bibl/horsley-1998> a bibo:Document ;
+    dcterms:title "Horsley 1998" ;
+    dcterms:description "G.H.R. Horsley and R.A. Kearsley, “Another Boundary Stone between Tymbrianassos and Sagalassos in Pisidia,” ZPE 121 (1998) 123-129." .
+        
+<http://id.stoa.org/bibl/içten-1998> a bibo:Document ;
+    dcterms:title "Içten 1998" ;
+    dcterms:description "Ç. Içten and H. Engelmann, “Inschriften aus Ephesos und Kolophon,” ZPE 120 (1998) 83-91." .
+        
+<http://id.stoa.org/bibl/jacques-1987> a bibo:Document ;
+    dcterms:title "Jacques 1987" ;
+    dcterms:description "F. Jacques, “Biens caducs revendiques par la cite d’Ostie. Attribution et delimitation d’un Terrain d’apres une nouvelle inscription du Latium,” Epigraphica 49 (1987) 29-70." .
+        
+<http://id.stoa.org/bibl/jiménez-de-furundarena-1999> a bibo:Document ;
+    dcterms:title "Jiménez de Furundarena 1999" ;
+    dcterms:description "A. Jiménez de Furundarena, “La Carrera de Titus Suedius Clemens,” HAnt 23 (1999) 167-172." .
+        
+<http://id.stoa.org/bibl/jones-1992> a bibo:Document ;
+    dcterms:title "Jones 1992" ;
+    dcterms:description "C. Jones, “Review of: James H. Oliver, Greek Constitutions of Early Roman Emperors from Inscriptions and Papyri,” AJP 113 (1992) 144-147." .
+        
+<http://id.stoa.org/bibl/kazarow-1923> a bibo:Document ;
+    dcterms:title "Kazarow 1923" ;
+    dcterms:description "G. Kazarow, “Inscriptions et antiquités de la Macédoine occidentale (Régions de Mariovo et de Prilep),” BCH 47 (1923) 275-300." .
+        
+<http://id.stoa.org/bibl/kehoe-1988> a bibo:Document ;
+    dcterms:title "Kehoe 1988" ;
+    dcterms:description "D. Kehoe, The Economics of Agriculture on Roman Imperial Estates in North Africa, Hypomnemata 89, Göttingen, 1988." .
+        
+<http://id.stoa.org/bibl/khanoussi-1992> a bibo:Document ;
+    dcterms:title "Khanoussi 1992" ;
+    dcterms:description "M. Khanoussi, “Présence et rôle de l’armée romaine dans la région des Grandes Plaines (Afrique Proconsulaire)” in Africa romana 9 pp. 319-328." .
+        
+<http://id.stoa.org/bibl/kierdorf-1987> a bibo:Document ;
+    dcterms:title "Kierdorf 1987" ;
+    dcterms:description "W. Kierdorf, “Freundschaft und Freundschaftskündigung von der Republik zum Prinzipat” in Binder 1987 pp. 223-245." .
+        
+<http://id.stoa.org/bibl/knibbe-1979> a bibo:Document ;
+    dcterms:title "Knibbe 1979" ;
+    dcterms:description "D. Knibbe et al., “Der Grundbesitz der ephesischen Artemis im Kaystrostal,” ZPE 33 (1979) 139-147." .
+        
+<http://id.stoa.org/bibl/knibbe-1989> a bibo:Document ;
+    dcterms:title "Knibbe 1989" ;
+    dcterms:description "J. Knibbe et al, “Neue Inschriften aus Ephesos XI,” JÖAI 59 Beiblatt (1989) 161-238." .
+        
+<http://id.stoa.org/bibl/krummrey-1980> a bibo:Document ;
+    dcterms:title "Krummrey 1980" ;
+    dcterms:description "H. Krummrey and S. Panciera, “Criteri di edizione e segni diacritici,” Tituli 2 (1980), 205-215." .
+        
+<http://id.stoa.org/bibl/laffi-1971> a bibo:Document ;
+    dcterms:title "Laffi 1971" ;
+    dcterms:description "U. Laffi, “I terreni del tempio di Zeus ad Aizanoi: Le iscrizioni sulla parete interna dell’anta destra del pronaos,” Athenaeum 49 (1971) 3-53." .
+        
+<http://id.stoa.org/bibl/lamboglia-1959> a bibo:Document ;
+    dcterms:title "Lamboglia 1959" ;
+    dcterms:description "N. Lamboglia, “Una nuova popolazione Pirenaica: Gli Olossitani,” RSL 25 (1959) 147-161." .
+        
+<http://id.stoa.org/bibl/lassus-1960> a bibo:Document ;
+    dcterms:title "Lassus 1960" ;
+    dcterms:description "J. Lassus, “L’archéologie algérienne en 1959,” Libyca 8 (1960) 1-109." .
+        
+<http://id.stoa.org/bibl/le-bohec-1989> a bibo:Document ;
+    dcterms:title "Le Bohec 1989" ;
+    dcterms:description "Y. Le Bohec, La Troisième Légion Auguste, Paris, 1989." .
+        
+<http://id.stoa.org/bibl/le-bohec-1990> a bibo:Document ;
+    dcterms:title "Le Bohec 1990" ;
+    dcterms:description "Y. Le Bohec, “De Sila à Gadiaufala: urbanisation et municipalisation dans le Numidie cirtéenne méridionale” in L’Afrique dans l’Occident romain pp. 291-313." .
+        
+<http://id.stoa.org/bibl/le-roux-1994> a bibo:Document ;
+    dcterms:title "Le Roux 1994" ;
+    dcterms:description "P. Le Roux, “Cités et territoires en Hispanie: L’épigraphie des limites,” MCV 30 (1994) 37-51." .
+        
+<http://id.stoa.org/bibl/leschi-1957> a bibo:Document ;
+    dcterms:title "Leschi 1957" ;
+    dcterms:description "L. Leschi, Études d’épigraphie, d’archéologie et d’histoire africaines, Paris, 1957." .
+        
+<http://id.stoa.org/bibl/leschi-1957a> a bibo:Document ;
+    dcterms:title "Leschi 1957a" ;
+    dcterms:description "L. Leschi, “Une assignation de terre sous Septime Sévère” in Leschi 1957 pp. 75-79." .
+        
+<http://id.stoa.org/bibl/logeart-1939> a bibo:Document ;
+    dcterms:title "Logeart 1939" ;
+    dcterms:description "F. Logeart, “Bornes délimitatives dans le sud du territoire de Cirta,” RevAfr 83 (1939) 161-181." .
+        
+<http://id.stoa.org/bibl/lucas-1997> a bibo:Document ;
+    dcterms:title "Lucas 1997" ;
+    dcterms:description "G. Lucas, Les cités antiques de la haute vallée du Titarèse et de géographie historique antique avec corpus des inscriptions, Lyon, 1997." .
+        
+<http://id.stoa.org/bibl/mackay-1965> a bibo:Document ;
+    dcterms:title "MacKay 1965" ;
+    dcterms:description "P. MacKay, “A Macedonian Boundary Inscription of A.D. 114,” Hesperia 34 (1965) 248-251." .
+        
+<http://id.stoa.org/bibl/mason-1974> a bibo:Document ;
+    dcterms:title "Mason 1974" ;
+    dcterms:description "H. Mason, Greek Terms for Roman Institutions: A Lexicon and Analysis, American Studies in Papyrology 13, Toronto, 1974." .
+        
+<http://id.stoa.org/bibl/mastino-1993> a bibo:Document ;
+    dcterms:title "Mastino 1993" ;
+    dcterms:description "A. Mastino, La Tavola di Esterzili: il conflitto tra pastori e contadini nella Barbaria  sarda: convegno di studi, Esterzili, 13 giugno 1992, Sassari, 1993." .
+        
+<http://id.stoa.org/bibl/matthews-1984> a bibo:Document ;
+    dcterms:title "Matthews 1984" ;
+    dcterms:description "J. Matthews, “The tax law of Palmyra. Evidence for economic history in a city of the Roman East,” JRS 74 (1984) 157-180." .
+        
+<http://id.stoa.org/bibl/mattingly-1994> a bibo:Document ;
+    dcterms:title "Mattingly 1994" ;
+    dcterms:description "D.J. Mattingly, Tripolitania, Ann Arbor, 1994." .
+        
+<http://id.stoa.org/bibl/m’charek-1999> a bibo:Document ;
+    dcterms:title "M’Charek 1999" ;
+    dcterms:description "A. M’Charek, “De Saint Augutin à Al-Bakri: sur la localisation de l’ager Bullensis dans l’Africa latino-chrétienne et de ‘Fahs Boll’ en Ifriqiya arabo-musulmane,” CRAI (1999) 115-142." .
+        
+<http://id.stoa.org/bibl/merryweather-2003> a bibo:Document ;
+    dcterms:title "Merryweather 2003" ;
+    dcterms:description "A. Merryweather and J. Prag, Romanization? Proceedings of a Post-graduate Colloquium, The Institute of Classical Studies, London, 15 November 2002, Digressus Supplement 1, London, 2003." .
+        
+<http://id.stoa.org/bibl/millar-1992> a bibo:Document ;
+    dcterms:title "Millar 1992" ;
+    dcterms:description "F. Millar, The Emperor in the Roman World (31 BC - AD 337), Ithaca, NY, 1992." .
+        
+<http://id.stoa.org/bibl/millar-1993> a bibo:Document ;
+    dcterms:title "Millar 1993" ;
+    dcterms:description "F. Millar, The Roman Near East: 31 BC - AD 337, Cambridge, MA, 1993." .
+        
+<http://id.stoa.org/bibl/mitchell-1976> a bibo:Document ;
+    dcterms:title "Mitchell 1976" ;
+    dcterms:description "S. Mitchell, “Requisitioned Transport in the Roman Empire: A New Inscription from Pisidia,” JRS 66 (1976) 106-131." .
+        
+<http://id.stoa.org/bibl/moatti-1993> a bibo:Document ;
+    dcterms:title "Moatti 1993" ;
+    dcterms:description "C. Moatti, Archives et partage de la terre dans le monde Romain (IIe siècle avant - Ier siècle après J.-C.), CollEFR 173, Rome, 1993." .
+        
+<http://id.stoa.org/bibl/bakalakis-1937> a bibo:Document ;
+    dcterms:title "Bakalakis 1937" ;
+    dcterms:description "G. Bakalakis, “ Παρανεστιοι  Ἀρχαιότητες ,” Thrakika 8 (1937) 15-31." .
+        
+<http://id.stoa.org/bibl/naddari-2000> a bibo:Document ;
+    dcterms:title "Naddari 2000" ;
+    dcterms:description "L. Naddari, “Une nouvelle borne des Musulames,” Africa 18 (2000) 43-51." .
+        
+<http://id.stoa.org/bibl/navarro-1999> a bibo:Document ;
+    dcterms:title "Navarro 1999" ;
+    dcterms:description "F. Navarro, “P. Stertinius Quartus, Governatore di Numidia,” Epigraphica 61 (1999) 67-79." .
+        
+<http://id.stoa.org/bibl/oliver-1965> a bibo:Document ;
+    dcterms:title "Oliver 1965" ;
+    dcterms:description "J. Oliver, “Texts A and B of the Horothesia Dossier at Istros,” GRBS 6 (1965) 143-156." .
+        
+<http://id.stoa.org/bibl/oliver-1989> a bibo:Document ;
+    dcterms:title "Oliver 1989" ;
+    dcterms:description "J. Oliver, Greek Constitutions of Early Roman Emperors from Inscriptions and Papyri, MemoirsAPS 178, Philadelphia, 1989." .
+        
+<http://id.stoa.org/bibl/ors-1953> a bibo:Document ;
+    dcterms:title "Ors 1953" ;
+    dcterms:description "Alvaro D’Ors, Epigrafía Jurídica de la España Romana, Madrid, 1953." .
+        
+<http://id.stoa.org/bibl/papazoglou-1979> a bibo:Document ;
+    dcterms:title "Papazoglou 1979" ;
+    dcterms:description "F. Papazoglou, “Gouverneurs de Macédoine: a propos du second volume des Fasti, par Th. Sarikakis,” ZAnt 29 (1979) 237-249." .
+        
+<http://id.stoa.org/bibl/parvan-1915> a bibo:Document ;
+    dcterms:title "Parvan 1915" ;
+    dcterms:description "V. Parvan, “Fouilles d’Ulmetum (Roumanie), 1911-1914,” AA (1915) 236-247." .
+        
+<http://id.stoa.org/bibl/patchère-1911> a bibo:Document ;
+    dcterms:title "Patchère 1911" ;
+    dcterms:description "F. de Patchère, “Excursion archéologique dans la région du Fahs et de Téboursouk,” BCTH (1911) 402-403." .
+        
+<http://id.stoa.org/bibl/petsa-1996> a bibo:Document ;
+    dcterms:title "Petsa 1996" ;
+    dcterms:description "Ph. Petsa, “ Χρονικὰ  Ἀρχαιολογικά ,” Makedonika 7 (1966/7) 287-368." .
+        
+<http://id.stoa.org/bibl/pflaum-1960> a bibo:Document ;
+    dcterms:title "Pflaum 1960" ;
+    dcterms:description "H.-G. Pflaum, Les Carrières procuratoriennes équestres sous le haut-empire Romain, 4 vols., Paris, 1960-1961." .
+        
+<http://id.stoa.org/bibl/piccirilli-1973> a bibo:Document ;
+    dcterms:title "Piccirilli 1973" ;
+    dcterms:description "F. Piccirilli, Gli Arbitrati Interstatali Greci , Pisa, 1973." .
+        
+<http://id.stoa.org/bibl/piganiol-1962> a bibo:Document ;
+    dcterms:title "Piganiol 1962" ;
+    dcterms:description "A. Piganiol, Les documents cadastraux de la colonie romaine d’Orange, Paris, 1962." .
+        
+<http://id.stoa.org/bibl/pikoulas-1998> a bibo:Document ;
+    dcterms:title "Pikoulas 1998" ;
+    dcterms:description "G. Pikoulas, “ Τερμονισμοὶ  Πελοποννήσου ” in Horos 10-12 pp. 313-325." .
+        
+<http://id.stoa.org/bibl/pikoulas-1999> a bibo:Document ;
+    dcterms:title "Pikoulas 1999" ;
+    dcterms:description "G. Pikoulas, “ Τερμονισμοί  Μακεδονίας : πρώτη  συμβολή ” in Ancient Macedonia VI 2 pp. 893-902." .
+        
+<http://id.stoa.org/bibl/pilhofer-1995> a bibo:Document ;
+    dcterms:title "Pilhofer 1995" ;
+    dcterms:description "P. Pilhofer, Philippi, 2 vols., Tübingen, 1995-2000." .
+        
+<http://id.stoa.org/bibl/plana-1995> a bibo:Document ;
+    dcterms:title "Plana 1995" ;
+    dcterms:description "R. Plana and M. José Pena, “Ampurias: cuestiones agrarias y jurídicas de finales de la república,” StudHist 13/14 (1995/1996) 89-104." .
+        
+<http://id.stoa.org/bibl/poinssot-1920> a bibo:Document ;
+    dcterms:title "Poinssot 1920" ;
+    dcterms:description "L. Poinssot, “Deux Inscriptions d’Aunobari,” CRAI (1920) 140-146." .
+        
+<http://id.stoa.org/bibl/poinssot-1938> a bibo:Document ;
+    dcterms:title "Poinssot 1938" ;
+    dcterms:description "L. Poinssot, “Une borne inédite de la Fossa Regia,” BCTH (1938/40) 203-204." .
+        
+<http://id.stoa.org/bibl/pratilli-1745> a bibo:Document ;
+    dcterms:title "Pratilli 1745" ;
+    dcterms:description "F. Pratilli, Della Via Appia riconosciuta e descritta da Roma a Brindisi, Naples, 1745." .
+        
+<http://id.stoa.org/bibl/pugliese-carratelli-1961> a bibo:Document ;
+    dcterms:title "Pugliese Carratelli 1961" ;
+    dcterms:description "G. Pugliese Carratelli, “Supplemento epigrafico cirenaico,” AnnScAA 39-40 (1961-1962) 219-375." .
+        
+<http://id.stoa.org/bibl/quinn-2003> a bibo:Document ;
+    dcterms:title "Quinn 2003" ;
+    dcterms:description "J. Quinn, “Roman Africa?” in Merryweather 2003 pp. 7-34." .
+        
+<http://id.stoa.org/bibl/ramsay-1886> a bibo:Document ;
+    dcterms:title "Ramsay 1886" ;
+    dcterms:description "W.M. Ramsay, “Notes and Inscriptions from Asia Minor,” AJA (series 1) 2 (1886) 128-131." .
+        
+<http://id.stoa.org/bibl/ramsay-1895> a bibo:Document ;
+    dcterms:title "Ramsay 1895" ;
+    dcterms:description "W.M. Ramsay, The Cities and Bishoprics of Phrygia, 2 vols., Oxford, 1895." .
+        
+<http://id.stoa.org/bibl/ramsay-1941> a bibo:Document ;
+    dcterms:title "Ramsay 1941" ;
+    dcterms:description "W.M. Ramsay, The Social Basis of Roman Power in Asia Minor, Aberdeen, 1941." .
+        
+<http://id.stoa.org/bibl/reynolds-1965> a bibo:Document ;
+    dcterms:title "Reynolds 1965" ;
+    dcterms:description "J. Reynolds and R. Goodchild, “The city lands of Apollonia in Cyrenaica,” LA 2 (1965) 103-107." .
+        
+<http://id.stoa.org/bibl/reynolds-1971> a bibo:Document ;
+    dcterms:title "Reynolds 1971" ;
+    dcterms:description "J. Reynolds, “New Boundary stones from the public land of the Roman People in Cyrenaica,” LA 8 (1971) 47-51." .
+        
+<http://id.stoa.org/bibl/rigsby-1976> a bibo:Document ;
+    dcterms:title "Rigsby 1976" ;
+    dcterms:description "K. Rigsby, “Cnossus and Capua” in TAPA 106 pp. 313-330." .
+        
+<http://id.stoa.org/bibl/rigsby-1996> a bibo:Document ;
+    dcterms:title "Rigsby 1996" ;
+    dcterms:description "K. Rigsby, Asylia: Territorial Inviolability in the Hellenistic World, Berkeley, 1996." .
+        
+<http://id.stoa.org/bibl/rizakis-1985> a bibo:Document ;
+    dcterms:title "Rizakis 1985" ;
+    dcterms:description "Th. Rizakis and G. Tourasoglou, Ἐπιγραφὲς    ἄνω    Μακεδονίας  ( Ἐλίμεια , Ἐορδαία , Νότια    Λυγκηστίς , Ὀρεστίς ), Athens, 1985." .
+        
+<http://id.stoa.org/bibl/robert-1938> a bibo:Document ;
+    dcterms:title "Robert 1938" ;
+    dcterms:description "L. Robert, Études épigraphiques et philologiques, Paris, 1938." .
+        
+<http://id.stoa.org/bibl/robert-1940> a bibo:Document ;
+    dcterms:title "Robert 1940" ;
+    dcterms:description "L. Robert, Hellenica. Recueil d’épigraphie de numismatique et d’antiquitiés grecques, 13 vols., Limoges, 1940-." .
+        
+<http://id.stoa.org/bibl/robert-1940a> a bibo:Document ;
+    dcterms:title "Robert 1940a" ;
+    dcterms:description "L. Robert, “Inscriptions de Bithynie copiées par Georges Radet,” REA 42 (1940) 302-322." .
+        
+<http://id.stoa.org/bibl/roesch-1985> a bibo:Document ;
+    dcterms:title "Roesch 1985" ;
+    dcterms:description "P. Roesch, Tiresias: Appendix Epigraphica , 1985." .
+        
+<http://id.stoa.org/bibl/roman-1993> a bibo:Document ;
+    dcterms:title "Roman 1993" ;
+    dcterms:description "Y. Roman, La frontière: séminaire de recherche, Lyon, 1993." .
+        
+<http://id.stoa.org/bibl/romanelli-1939> a bibo:Document ;
+    dcterms:title "Romanelli 1939" ;
+    dcterms:description "P. Romanelli, “Tre iscrizioni tripolitane di interesse storico,” Epigraphica 1 (1939) 99-118." .
+        
+<http://id.stoa.org/bibl/rousset-1994> a bibo:Document ;
+    dcterms:title "Rousset 1994" ;
+    dcterms:description "D. Rousset, “Les frontières des cités grecques. Premières réflexions à partir du recueil des documents èpigraphiques,” CahiersGlotz 5 (1994) 97-126." .
+        
+<http://id.stoa.org/bibl/rousset-2002> a bibo:Document ;
+    dcterms:title "Rousset 2002" ;
+    dcterms:description "D. Rousset, Le territoire de Delphes et la terre d’Apollon, BEFAR 302, Paris, 2002." .
+        
+<http://id.stoa.org/bibl/şahin-1984> a bibo:Document ;
+    dcterms:title "Şahin 1984" ;
+    dcterms:description "S. Şahin, “Ti. Iulius Frugi: proconsul von Lycia-Pamphylia unter Mark Aurel und Verus, Abgrenzung des Stadtgebiets von Arykanda,” EA 3 (1984) 39-48." .
+        
+<http://id.stoa.org/bibl/şahin-1986> a bibo:Document ;
+    dcterms:title "Şahin 1986" ;
+    dcterms:description "S. Şahin, “Studien über die Probleme der historischen Geographie des nordwestlichen Kleinasiens I: Strabon XII 3,7 p. 543, der Fluss Gallos, die Stadt Modr<en>e in Phrygia Epiktetos und die Schiffbarkeit des Sangarios,” EA 7 (1986) 125-152." .
+        
+<http://id.stoa.org/bibl/şahin-1992> a bibo:Document ;
+    dcterms:title "Şahin 1992" ;
+    dcterms:description "S. Şahin, “Statthalter der Provinzen Pamphylia-Lycia und Bithynia-Pontus in der Zeit der Statusänderung beider Provinzen unter Mark Aurel und Lucius Verus,” EA 20 (1992) 80-89." .
+        
+<http://id.stoa.org/bibl/sarikakes-1971> a bibo:Document ;
+    dcterms:title "Sarikakes 1971" ;
+    dcterms:description "Theodoros Sarikakes, Romaioi archontes tes eparchias Makedonias, 2 vols., Thessalonike, 1971-1977." .
+        
+<http://id.stoa.org/bibl/scherrer-1990> a bibo:Document ;
+    dcterms:title "Scherrer 1990" ;
+    dcterms:description "P. Scherrer, “Augustus, die Mission des Vedius Pollio und die Artemis Ephesia,” JÖAI 60 (1990) 87-101." .
+        
+<http://id.stoa.org/bibl/schlumberger-1939> a bibo:Document ;
+    dcterms:title "Schlumberger 1939" ;
+    dcterms:description "D. Schlumberger, “Bornes frontières de la Palmyrène,” Syria 20 (1939) 43-73." .
+        
+<http://id.stoa.org/bibl/slootjes-2000> a bibo:Document ;
+    dcterms:title "Slootjes 2000" ;
+    dcterms:description "D. Slootjes, Ceremonies upon the arrival of the governor: a forgotten aspect of Roman imperial routine, M.A. Thesis, Chapel Hill, 2000." .
+        
+<http://id.stoa.org/bibl/smallwood-1966> a bibo:Document ;
+    dcterms:title "Smallwood 1966" ;
+    dcterms:description "E. Smallwood, Documents Illustrating the Principates of Nerva, Trajan and Hadrian, Cambridge, 1966." .
+        
+<http://id.stoa.org/bibl/smallwood-1967> a bibo:Document ;
+    dcterms:title "Smallwood 1967" ;
+    dcterms:description "E. Smallwood, Documents Illustrating the principates of Gaius, Claudius and Nero, Cambridge, 1967." .
+        
+<http://id.stoa.org/bibl/sonnabend-1994> a bibo:Document ;
+    dcterms:title "Sonnabend 1994" ;
+    dcterms:description "H. Sonnabend and E. Olshausen (eds.), Stuttgarter Kolloquium zur historischen Geographie des Altertums 4, 1990, Bonn, 1994." .
+        
+<http://id.stoa.org/bibl/spano-1910b> a bibo:Document ;
+    dcterms:title "Spano 1910b" ;
+    dcterms:description "G. Spano, “Pompei - Relazione degli scavi eseguiti negli anni 1908 e 1909,” NSA (1910) 377-418." .
+        
+<http://id.stoa.org/bibl/stadter-1980> a bibo:Document ;
+    dcterms:title "Stadter 1980" ;
+    dcterms:description "P. Stadter, Arrian of Nicomedia, Chapel Hill, 1980." .
+        
+<http://id.stoa.org/bibl/stählin-1924> a bibo:Document ;
+    dcterms:title "Stählin 1924" ;
+    dcterms:description "F. Stählin, Das Hellenische Thessalien: Landeskundliche und geschichtliche Beschreibung Thessaliens in der hellenischen und römischen Zeit, Amsterdam, 1924." .
+        
+<http://id.stoa.org/bibl/stylow-1986> a bibo:Document ;
+    dcterms:title "Stylow 1986" ;
+    dcterms:description "A. Stylow, “Apuntes sobre epigrafía de época flavia en Hispania,” Gerión 4 (1986) 285-311." .
+        
+<http://id.stoa.org/bibl/szemler-1989> a bibo:Document ;
+    dcterms:title "Szemler 1989" ;
+    dcterms:description "G. Szemler et al., “The Donation of M. Acilius Glabrio, cos. 191: A Re-interpretation,” AHB 3 (1989) 68-77." .
+        
+<http://id.stoa.org/bibl/tačeva-1992> a bibo:Document ;
+    dcterms:title "Tačeva 1992" ;
+    dcterms:description "M. Tačeva, “Phylarchoi und Phylai in der Provinz Thracia,” Index 20 (1992) 179-187." .
+        
+<http://id.stoa.org/bibl/talbert-1984> a bibo:Document ;
+    dcterms:title "Talbert 1984" ;
+    dcterms:description "R. Talbert, The Senate of Imperial Rome, Princeton, 1984." .
+        
+<http://id.stoa.org/bibl/thomas-1976> a bibo:Document ;
+    dcterms:title "Thomas 1976" ;
+    dcterms:description "J. Thomas, Textbook of Roman Law, Amsterdam, 1976." .
+        
+<http://id.stoa.org/bibl/thomasson-1984> a bibo:Document ;
+    dcterms:title "Thomasson 1984" ;
+    dcterms:description "B. Thomasson, Laterculi Praesidum, 3 vols., Göteborg, 1984-1990." .
+        
+<http://id.stoa.org/bibl/thomasson-1991> a bibo:Document ;
+    dcterms:title "Thomasson 1991" ;
+    dcterms:description "B. Thomasson, Legatus: Beiträge zur römischen Verwaltungsgeschichte, AIRRS 18, Stockholm, 1991." .
+        
+<http://id.stoa.org/bibl/thomasson-1996> a bibo:Document ;
+    dcterms:title "Thomasson 1996" ;
+    dcterms:description "B.E. Thomasson, Fasti africani: senatorische und ritterliche Amtsträger in den römischen Provinzen Nordafrikas von Augustus bis Diokletian, SkrSvenInst 53, Stockholm, 1996." .
+        
+<http://id.stoa.org/bibl/trousset-1976> a bibo:Document ;
+    dcterms:title "Trousset 1976" ;
+    dcterms:description "P. Trousset, “Reconnaisances archéologiques sur la frontière saharience de l’Empire romain dans le sud-ouest de la Tunisie” in Lille d’archéologie 1976 pp. 21-33." .
+        
+<http://id.stoa.org/bibl/trousset-1978> a bibo:Document ;
+    dcterms:title "Trousset 1978" ;
+    dcterms:description "P. Trousset, “Les bornes du Bled Segui. Nouveaux aperçus sur la centuriation romaine du sud Tunisie,” AntAf 12 (1978) 125-178." .
+        
+<http://id.stoa.org/bibl/trousset-1997> a bibo:Document ;
+    dcterms:title "Trousset 1997" ;
+    dcterms:description "P. Trousset, “Un nouveau document sur la limitatio de C. Vibius Marsus (Sud Tunisien)” in Roman Frontier Studies 1995 pp. 3-11." .
+        
+<http://id.stoa.org/bibl/vallat-1979> a bibo:Document ;
+    dcterms:title "Vallat 1979" ;
+    dcterms:description "J. Vallat, “Le vocabulaire des attributions de terres en Campanie: analyse spatiale et temporelle,” MEFRA 91.2 (1979) 977-1013." .
+        
+<http://id.stoa.org/bibl/vaquerizo-gil-1986> a bibo:Document ;
+    dcterms:title "Vaquerizo Gil 1986" ;
+    dcterms:description "D. Vaquerizo Gil, “Epigrafía romana inédita de la llamada ‘Siberia Extremeña’,” RevEsExtr 42 (1986) 115-137." .
+        
+<http://id.stoa.org/bibl/velkov-1970> a bibo:Document ;
+    dcterms:title "Velkov 1970" ;
+    dcterms:description "V. Velkov, “Epigraphische Beiträge zur historischen Geographie der Moesia Inferior,” Studia Balcanica 1 (1970) 55-60." .
+        
+<http://id.stoa.org/bibl/vine-1993> a bibo:Document ;
+    dcterms:title "Vine 1993" ;
+    dcterms:description "B. Vine, “Review of Gager 1992,” BMCR 04.02.03 (1993) ; URL: http://ccat.sas.upenn.edu/bmcr/1993/04.02.03.html." .
+        
+<http://id.stoa.org/bibl/vulpe-1968> a bibo:Document ;
+    dcterms:title "Vulpe 1968" ;
+    dcterms:description "R. Vulpe and I. Barnea, Romanii la Dunărea de Jos, Bucarest, 1968." .
+        
+<http://id.stoa.org/bibl/wace-1911> a bibo:Document ;
+    dcterms:title "Wace 1911" ;
+    dcterms:description "A. Wace and M. Thompson, “A Latin Inscription from Perrhaebia,” BSA 17 (1910/1911) 193-204." .
+        
+<http://id.stoa.org/bibl/whittaker-1978> a bibo:Document ;
+    dcterms:title "Whittaker 1978" ;
+    dcterms:description "C. Whittaker, “Land and Labour in North Africa,” Klio 60 (1978) 331-362." .
+        
+<http://id.stoa.org/bibl/wilkes-1967> a bibo:Document ;
+    dcterms:title "Wilkes 1967" ;
+    dcterms:description "J. Wilkes, “A New Governor of Dalmatia,” Epigraphische Studien 4 (1967) 119-121." .
+        
+<http://id.stoa.org/bibl/wilkes-1974> a bibo:Document ;
+    dcterms:title "Wilkes 1974" ;
+    dcterms:description "J. Wilkes, “Boundary Stones in Roman Dalmatia,” ArhVest 25 (1974) 258-274." .
+        
+<http://id.stoa.org/bibl/woodward-1913> a bibo:Document ;
+    dcterms:title "Woodward 1913" ;
+    dcterms:description "A. Woodward, “Inscriptions from Thessaly and Macedonia,” JHS 33 (1913) 313-346." .
+        
